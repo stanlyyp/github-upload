@@ -1,0 +1,49 @@
+#
+#
+# US Geological Survey
+# retrieved: 2026-09-02 17:36:19 -04:00	(vaas01)
+#
+# The Site File stores location and general information about groundwater,
+# surface water, and meteorological sites
+# for sites in USA.
+#
+# File-format description:  http://help.waterdata.usgs.gov/faq/about-tab-delimited-output
+# Automated-retrieval info: http://waterservices.usgs.gov/rest/Site-Service.html
+#
+# Contact:   gs-w_support_nwisweb@usgs.gov
+# Warning: A site search criterion has been used for which the data may be unavailable.
+#
+# The following selected fields are included in this output:
+#
+#  agency_cd       -- Agency
+#  site_no         -- Site identification number
+#  station_nm      -- Site name
+#  site_tp_cd      -- Site type
+#  dec_lat_va      -- Decimal latitude
+#  dec_long_va     -- Decimal longitude
+#  coord_acy_cd    -- Latitude-longitude accuracy
+#  dec_coord_datum_cd -- Decimal Latitude-longitude datum
+#  alt_va          -- Altitude of Gage/land surface
+#  alt_acy_va      -- Altitude accuracy
+#  alt_datum_cd    -- Altitude datum
+#  huc_cd          -- Hydrologic unit code
+#
+agency_cd	site_no	station_nm	site_tp_cd	dec_lat_va	dec_long_va	coord_acy_cd	dec_coord_datum_cd	alt_va	alt_acy_va	alt_datum_cd	huc_cd
+5s	15s	50s	7s	16s	16s	1s	10s	8s	3s	10s	16s
+USGS	05469860	Mud Lake Drainage Ditch 71 at Jewell, IA	ST-DCH	42.31442529	-93.639938	F	NAD83				07080105
+USGS	05469970	Long Dick Creek near Ellsworth, IA	ST	42.31026057	-93.5352121	F	NAD83				07080105
+USGS	05469990	Keigley Branch near Story City, IA	ST	42.15026194	-93.6204947	F	NAD83	 885.34	.01	NAVD88	07080105
+USGS	05470000	South Skunk River near Ames, IA	ST	42.0665833	-93.62025	F	NAD83	888.73	.10	NAVD88	07080105
+USGS	05470500	Ioway Creek at Ames, IA	ST	42.02255556	-93.6305	F	NAD83	 880.48	.10	NAVD88	07080105
+USGS	05471000	South Skunk River below Ioway Creek near Ames, IA	ST	42.0082222	-93.5959722	F	NAD83	 857.86	.13	NAVD88	07080105
+USGS	05471008	South Skunk River near Cambridge, IA	ST	41.95054285	-93.551049	F	NAD83	 860	 10	NGVD29	07080105
+USGS	05471009	Walnut Creek at 510th Avenue at Ames, IA	ST	41.97575	-93.6813056	1	NAD83				07080105
+USGS	05471032	Wetland Inlet Drainage Ditch 52 near Farrar, IA S1	ST-DCH	41.7768611	-93.3958889	1	NAD83				07080105
+USGS	05471040	Red Rock Creek near Colfax, IA	ST	41.65915557	-93.2707616	F	NAD83	 785.96	.01	NGVD29	07080105
+USGS	05471050	South Skunk River at Colfax, IA	ST	41.68180556	-93.2468333	F	NAD83	770.00	.13	NAVD88	07080105
+USGS	05471090	Unnamed Trib to East Br Indian Cr near Zearing, IA	ST	42.1066111	-93.3508056	1	NAD83				07080105
+USGS	05471200	Indian Creek near Mingo, IA	ST	41.8057222	-93.3086944	F	NAD83	809.87	.16	NAVD88	07080105
+USGS	05471380	South Skunk River near Newton, IA	ST	41.62304676	-93.0924225	F	NAD83	 760	 10	NGVD29	07080105
+USGS	05471382	Sewer Creek near Sewage Plant at Newton, IA  DS1	ST	41.67671325	-93.0487814	5	NAD83	 825.0	  1	NGVD29	07080105
+USGS	05471500	South Skunk River near Oskaloosa, IA	ST	41.35570278	-92.6573556	F	NAD83	685.08	.23	NAVD88	07080105
+USGS	05472010	South Skunk River blw Lake Keomah nr Oskaloosa, IA	ST	41.31111958	-92.513522	F	NAD83	 690	 10	NGVD29	07080105

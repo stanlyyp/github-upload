@@ -1,0 +1,581 @@
+site_id,station_name,latitude,longitude,drainage_area,state,county,data_source
+USGS-05469800,"South Skunk River near Ellsworth, IA",42.31053738,-93.58965849,54.9,,,south-station.xlsx
+USGS-05469850,"Mud Lake Drainage Ditch 71 near Jewell, IA",42.3249804,-93.6510494,64.1,,,south-station.xlsx
+USGS-05469860,"Mud Lake Drainage Ditch 71 at Jewell, IA",42.31442529,-93.639938,65.4,,,south-station.xlsx
+USGS-05469950,"South Skunk River at Randall, IA",42.23831675,-93.5857704,160.0,,,south-station.xlsx
+USGS-05469970,"Long Dick Creek near Ellsworth, IA",42.31026057,-93.5352121,6.08,,,south-station.xlsx
+USGS-05469975,"Long Dick Creek near Randall, IA",42.20998496,-93.5160459,,,,south-station.xlsx
+USGS-05469980,"South Skunk River near Story City, IA",42.1372073,-93.5674373,222.0,,,south-station.xlsx
+USGS-05469990,"Keigley Branch near Story City, IA",42.15026194,-93.6204947,31.0,,,south-station.xlsx
+USGS-05469992,"Keigley Branch near Gilbert, IA",42.1066521,-93.5749379,46.5,,,south-station.xlsx
+USGS-05469995,"South Skunk River above Ames, IA",42.09081885,-93.5854939,,,,south-station.xlsx
+USGS-05470000,"South Skunk River near Ames, IA",42.0665833,-93.62025,315.0,,,south-station.xlsx
+USGS-05470190,"South Skunk River East of Ames, IA",42.02276415,-93.5960505,329.0,,,south-station.xlsx
+USGS-05470200,"Ioway Creek near Stanhope, IA",42.20942499,-93.7855002,62.6,,,south-station.xlsx
+USGS-05470500,"Ioway Creek at Ames, IA",42.02255556,-93.6305,204.0,,,south-station.xlsx
+USGS-05470600,"Worrell Creek at Ames, IA",42.00831949,-93.6393856,15.3,,,south-station.xlsx
+USGS-05470800,"Ioway Creek South of Ames, IA",42.01359747,-93.6104956,225.0,,,south-station.xlsx
+USGS-05471000,"South Skunk River below Ioway Creek near Ames, IA",42.0082222,-93.5959722,556.0,,,south-station.xlsx
+USGS-05471004,"South Skunk River Southeast of Ames, IA",41.9866535,-93.5871615,,,,south-station.xlsx
+USGS-05471006,"South Skunk River near Shipley, IA",41.9730425,-93.5793834,,,,south-station.xlsx
+USGS-05471007,"Drainage Ditch 13 near Ames, IA",42.00109805,-93.5704942,6.18,,,south-station.xlsx
+USGS-05471008,"South Skunk River near Cambridge, IA",41.95054285,-93.551049,,,,south-station.xlsx
+USGS-05471009,"Walnut Creek at 510th Avenue at Ames, IA",41.97575,-93.6813056,2.5,,,south-station.xlsx
+USGS-05471010,"South Branch Ditch of Walnut Creek at Kelley, IA",41.96498616,-93.6793872,1.41,,,south-station.xlsx
+USGS-0547101001,"Tile Line at S Branch of Walnut Cr at Kelley, IA",41.96498616,-93.6793872,1.41,,,south-station.xlsx
+USGS-05471012,"Walnut Creek at Kelley, IA",41.954431,-93.6391079,9.85,,,south-station.xlsx
+USGS-05471013,"Walnut Creek near Kelley, IA",41.9535978,-93.6246629,14.7,,,south-station.xlsx
+USGS-0547101350,"Walnut Creek Tributary near Kelley, IA",41.9469313,-93.6052178,0.05,,,south-station.xlsx
+USGS-05471014,"Walnut Creek near Cambridge, IA",41.93804275,-93.5704943,17.6,,,south-station.xlsx
+USGS-05471020,"South Skunk River at Cambridge, IA",41.8922099,-93.5163256,615.0,,,south-station.xlsx
+USGS-05471032,"Wetland Inlet Drainage Ditch 52 near Farrar, IA S1",41.7768611,-93.3958889,,,,south-station.xlsx
+USGS-05471040,"Red Rock Creek near Colfax, IA",41.65915557,-93.2707616,18.4,,,south-station.xlsx
+USGS-05471050,"South Skunk River at Colfax, IA",41.68180556,-93.2468333,803.0,,,south-station.xlsx
+USGS-05471090,"Unnamed Trib to East Br Indian Cr near Zearing, IA",42.1066111,-93.3508056,7.56,,,south-station.xlsx
+USGS-05471100,"East Branch Indian Creek near Nevada, IA",42.03443176,-93.374098,65.7,,,south-station.xlsx
+USGS-05471110,"Dye Creek near Colo, IA",42.00832095,-93.3496529,,,,south-station.xlsx
+USGS-05471120,"East Branch Indian Creek near Iowa Center, IA",41.95220997,-93.4060438,128.0,,,south-station.xlsx
+USGS-05471130,"West Branch Indian Creek at Nevada, IA",41.99359877,-93.4485453,38.0,,,south-station.xlsx
+USGS-05471140,"Drainage Ditch 5 near Nevada, IA",42.01276505,-93.5213256,6.5,,,south-station.xlsx
+USGS-05471150,"West Branch Indian Creek near Iowa Center, IA",41.9316544,-93.4399339,65.9,,,south-station.xlsx
+USGS-05471180,"Indian Creek near Iowa Center, IA",41.91387669,-93.4152108,203.0,,,south-station.xlsx
+USGS-05471200,"Indian Creek near Mingo, IA",41.8057222,-93.3086944,276.0,,,south-station.xlsx
+USGS-05471250,"Indian Creek at Mingo, IA",41.7763769,-93.2779834,285.0,,,south-station.xlsx
+USGS-05471350,"Clear Creek near Mingo, IA",41.7766547,-93.2668719,84.1,,,south-station.xlsx
+USGS-05471370,"Indian Creek near Colfax, IA",41.71721106,-93.2074255,410.0,,,south-station.xlsx
+USGS-05471380,"South Skunk River near Newton, IA",41.62304676,-93.0924225,1281.0,,,south-station.xlsx
+USGS-05471382,"Sewer Creek near Sewage Plant at Newton, IA  DS1",41.67671325,-93.0487814,,,,south-station.xlsx
+USGS-05471390,"South Skunk River at Reasnor, IA",41.57443699,-93.03797679,1363.0,,,south-station.xlsx
+USGS-05471400,"Elk Creek near Taintor, IA",41.49055265,-92.8538065,59.9,,,south-station.xlsx
+USGS-05471500,"South Skunk River near Oskaloosa, IA",41.35570278,-92.6573556,1635.0,,,south-station.xlsx
+USGS-05472010,"South Skunk River blw Lake Keomah nr Oskaloosa, IA",41.31111958,-92.513522,1687.0,,,south-station.xlsx
+USGS-05472030,"South Skunk River near Martinsburg, IA",41.2355687,-92.2140702,1786.0,,,south-station.xlsx
+USGS-05472040,"South Skunk River near Ollie, IA",41.2416802,-92.0637886,1837.0,,,south-station.xlsx
+USGS-1117MBR-000146,SKUNK R UPSTREAM FROM AMES STP,42.0225,-93.595,,,,south-station.xlsx
+USGS-1117MBR-000147,SKUNK R DNSTREAM FROM AMES STP,41.9708333,-93.5786111,,,,south-station.xlsx
+USGS-1117MBR-006635,"SOUTH SKUNK RIVER SSE OF STORY CITY, IOWA.",42.16625,-93.5777778,,,,south-station.xlsx
+USGS-1117MBR-006636,"SOUTH SKUNK RIVER SSE OF AMES, IOWA.",41.9504167,-93.5511111,,,,south-station.xlsx
+USGS-1117MBR-007110,SOUTH SKUNK RIVER AT AMES IOWA,42.0366667,-93.59625,,,,south-station.xlsx
+USGS-1117MBR-010007,"SOUTH SKUNK RIVER SSE OF STORY CITY, IOWA.",42.1666667,-93.5777778,,,,south-station.xlsx
+USGS-21IOWA-10500001,Indian Creek near Colfax,41.7462,-93.2259,,,,south-station.xlsx
+USGS-21IOWA-10620001,South Skunk River near Oskaloosa,41.3553,-92.657,,,,south-station.xlsx
+USGS-21IOWA-10850001,South Skunk River near Ames,41.9729,-93.5791,,,,south-station.xlsx
+USGS-21IOWA-10850002,South Skunk River near Cambridge,41.9504,-93.5508,,,,south-station.xlsx
+USGS-21IOWA-10850003,South Skunk River Upstream of Ames,42.0663,-93.6201,,,,south-station.xlsx
+USGS-21IOWA-11400004,Long Dick Creek near Ellsworth (site ldc2),42.2963527,-93.5245823,,,,south-station.xlsx
+USGS-21IOWA-11850001,College Creek near Ames (Site CoCrHW),42.0205723,-93.6920788,,,,south-station.xlsx
+USGS-21IOWA-11850002,College Creek near Ames (Site CoCr1),42.0205969,-93.6864867,,,,south-station.xlsx
+USGS-21IOWA-11850003,College Creek near Ames (Site CoCr2),42.0194917,-93.6830204,,,,south-station.xlsx
+USGS-21IOWA-11850004,College Creek near Ames (Site CoCr3),42.0191635,-93.6559133,,,,south-station.xlsx
+USGS-21IOWA-12850003,Bear Creek near Ames (site 114),42.1135855,-93.5611151,,,,south-station.xlsx
+USGS-21IOWA-12850018,Drainage Ditch 81 near Nevada,42.0637561,-93.3776154,,,,south-station.xlsx
+USGS-21IOWA-12850019,Onion Creek near Ames,42.05234,-93.6792393,,,,south-station.xlsx
+USGS-21IOWA-12850020,Worrell Creek near Ames,41.9991483,-93.6579294,,,,south-station.xlsx
+USGS-21IOWA-12850021,Ballard Creek near Cambridge,41.9075976,-93.5626166,,,,south-station.xlsx
+USGS-21IOWA-12850022,Bear Creek near Roland,42.17859,-93.5037915,,,,south-station.xlsx
+USGS-21IOWA-16080002,Prairie Creek - Boone # 131,42.1188874,-93.8292527,,,,south-station.xlsx
+USGS-21IOWA-16400002,South Skunk River - Site 220,42.2735237,-93.607485,,,,south-station.xlsx
+USGS-21IOWA-16500001,Indian Creek - Mingo - REMAP # 90,41.8131425,-93.318392,,,,south-station.xlsx
+USGS-21IOWA-16620002,Unn.Trib. South Skunk Rvr. - Pella # 180,41.4416783,-92.8204162,,,,south-station.xlsx
+USGS-21IOWA-16850001,Squaw Creek,42.0372855,-93.651319,,,,south-station.xlsx
+USGS-21IOWA_WQX-10500001,Indian Creek near Mingo,41.746157,-93.226094,,,,south-station.xlsx
+USGS-21IOWA_WQX-10620001,South Skunk River near Oskaloosa,41.355257,-92.657145,,,,south-station.xlsx
+USGS-21IOWA_WQX-10850001,South Skunk River near Ames,41.97287,-93.579307,,,,south-station.xlsx
+USGS-21IOWA_WQX-10850002,South Skunk River near Cambridge,41.95038,-93.551013,,,,south-station.xlsx
+USGS-21IOWA_WQX-10850003,South Skunk River Upstream of Ames (US1),42.066264,-93.620362,,,,south-station.xlsx
+USGS-21IOWA_WQX-11400004,Long Dick Creek near Ellsworth (site ldc2),42.296353,-93.524582,,,,south-station.xlsx
+USGS-21IOWA_WQX-11850001,College Creek near Ames (Site CoCrHW),42.020572,-93.692079,,,,south-station.xlsx
+USGS-21IOWA_WQX-11850002,College Creek near Ames (Site CoCr1),42.020597,-93.686487,,,,south-station.xlsx
+USGS-21IOWA_WQX-11850003,College Creek near Ames (Site CoCr2),42.019492,-93.68302,,,,south-station.xlsx
+USGS-21IOWA_WQX-11850004,College Creek near Ames (Site CoCr3),42.019164,-93.655913,,,,south-station.xlsx
+USGS-21IOWA_WQX-11850005,Walnut Creek at Huxley,41.93864,-93.572467,,,,south-station.xlsx
+USGS-21IOWA_WQX-12080003,Ioway Creek Zenorsville,42.10575,-93.70813,,,,south-station.xlsx
+USGS-21IOWA_WQX-12080004,UT to Ioway Creek-Stanhope-HW75,42.190412,-93.78367,,,,south-station.xlsx
+USGS-21IOWA_WQX-12080005,Montgomery Creek,42.130946,-93.765864,,,,south-station.xlsx
+USGS-21IOWA_WQX-12500001,Mud Creek Baxter,41.84936,-93.24152,,,,south-station.xlsx
+USGS-21IOWA_WQX-12540001,Twin Grove Creek-Ollie,41.206877,-92.159789,,,,south-station.xlsx
+USGS-21IOWA_WQX-12770006,UT to UT to South Skunk River-Elkhart-HW72,41.833498,-93.536459,,,,south-station.xlsx
+USGS-21IOWA_WQX-12850003,Bear Creek-Skunk River Greenbelt- Ames,42.113586,-93.561115,,,,south-station.xlsx
+USGS-21IOWA_WQX-12850006,Long Dick Creek-Roland-LDC1,42.177085,-93.540014,,,,south-station.xlsx
+USGS-21IOWA_WQX-12850007,South Skunk River Ames,42.10767,-93.56874,,,,south-station.xlsx
+USGS-21IOWA_WQX-12850015,Ioway Creek Stuart Smith Park- Ames,42.02006,-93.6307,,,,south-station.xlsx
+USGS-21IOWA_WQX-12850016,Ioway Creek Ames- South Duff Ave,42.0135,-93.60959,,,,south-station.xlsx
+USGS-21IOWA_WQX-12850017,Walnut Creek-Ames,41.950987,-93.609418,,,,south-station.xlsx
+USGS-21IOWA_WQX-12850018,Drainage Ditch 81-Nevada-Mixed HWCRS,42.063756,-93.377615,,,,south-station.xlsx
+USGS-21IOWA_WQX-12850019,Onion Creek-Ames-Timber HWCRS,42.05234,-93.679239,,,,south-station.xlsx
+USGS-21IOWA_WQX-12850020,Worrell Creek-Ames-Timber HWCRS,41.999148,-93.657929,,,,south-station.xlsx
+USGS-21IOWA_WQX-12850021,Ballard Creek-Cambridge,41.907598,-93.562617,,,,south-station.xlsx
+USGS-21IOWA_WQX-12850022,Bear Creek-Roland-Mixed HWCRS,42.17859,-93.503792,,,,south-station.xlsx
+USGS-21IOWA_WQX-12850023,Dye Creek-Colo,42.037532,-93.31397,,,,south-station.xlsx
+USGS-21IOWA_WQX-14000035,Long Dick Creek - Roland (RBP#1),42.238571,-93.512146,,,,south-station.xlsx
+USGS-21IOWA_WQX-14000036,Long Dick Creek - Ellsworth (RBP#2),42.282186,-93.526459,,,,south-station.xlsx
+USGS-21IOWA_WQX-14000037,Long Dick Creek - Ellsworth (RBP#3),42.310722,-93.535324,,,,south-station.xlsx
+USGS-21IOWA_WQX-14000091,Unnamed Tributary to Long Dick Creek - Ellsworth (RBP#4),42.310776,-93.519745,,,,south-station.xlsx
+USGS-21IOWA_WQX-14000099,Unnamed Tributary to UT to South Skunk River - Elkhart (UTSS71),41.836466,-93.533497,,,,south-station.xlsx
+USGS-21IOWA_WQX-14000100,Unnamed Tributary to UT to Ioway Creek - Gilbert (UTSqCrT1),42.18951,-93.786529,,,,south-station.xlsx
+USGS-21IOWA_WQX-14000107,Unnamed Tributary to Willow Creek - Collins,41.913602,-93.24235,,,,south-station.xlsx
+USGS-21IOWA_WQX-14000226,Onion Creek,42.05071,-93.70241,,,,south-station.xlsx
+USGS-21IOWA_WQX-14000308,Dye Creek,42.00248,-93.34496,,,,south-station.xlsx
+USGS-21IOWA_WQX-14000509,Unnamed Tributary to Ditch #11,41.81493,-93.50015,,,,south-station.xlsx
+USGS-21IOWA_WQX-14000616,Red Rock Creek,41.67432,-93.26964,,,,south-station.xlsx
+USGS-21IOWA_WQX-14000617,Ballard Creek,41.9081,-93.5404,,,,south-station.xlsx
+USGS-21IOWA_WQX-16080002,Prairie Creek - Boone # 131,42.118887,-93.829253,,,,south-station.xlsx
+USGS-21IOWA_WQX-16400002,South Skunk River - Site 220,42.273524,-93.607485,,,,south-station.xlsx
+USGS-21IOWA_WQX-16500001,Indian Creek - Mingo - REMAP # 90,41.813143,-93.318392,,,,south-station.xlsx
+USGS-21IOWA_WQX-16620002,Unn.Trib. South Skunk Rvr. - Pella # 180,41.441678,-92.820416,,,,south-station.xlsx
+USGS-21IOWA_WQX-16850001,Ioway Creek,42.037286,-93.651319,,,,south-station.xlsx
+USGS-414051093030201,"Sewer Creek below Trtmnt Outfall at Newton, IA",41.6808333,-93.0505556,,,,south-station.xlsx
+USGS-414054093030301,"Sewer Creek above Trtmnt Outfall at Newton, IA",41.68166667,-93.0508333,,,,south-station.xlsx
+USGS-420103093274701,"West Indian Creek at 620th Ave at Nevada, IA",42.0175,-93.4630556,,,,south-station.xlsx
+USGS-420108093275401,"West Indian Creek at 4-H Park at Nevada, IA",42.01888889,-93.465,,,,south-station.xlsx
+USGS-421100093320002,SY-85/23W-0002 (HM-2),42.1833333,-93.5333333,,,,south-station.xlsx
+USGS-EPA_R7-006635,"SOUTH SKUNK RIVER SSE OF STORY CITY, IOWA.",42.16625,-93.5777778,,,,south-station.xlsx
+USGS-EPA_R7-006636,"SOUTH SKUNK RIVER SSE OF AMES, IOWA.",41.9504167,-93.5511111,,,,south-station.xlsx
+USGS-EPA_R7-007110,SOUTH SKUNK RIVER AT AMES IOWA,42.0366667,-93.59625,,,,south-station.xlsx
+USGS-EPA_R7-010007,"SOUTH SKUNK RIVER SSE OF STORY CITY, IOWA.",42.1666667,-93.5777778,,,,south-station.xlsx
+USGS-EPA_R7_WQX-DW-45-466-3,Sugar Creek,41.22685,-92.29694,,,,south-station.xlsx
+USGS-EPA_R7_WQX-DW-46-466-2,Waugh Branch,41.20583,-92.31348,,,,south-station.xlsx
+USGS-EPA_R7_WQX-DW-48-128-4,West Branch Indian Creek,41.92139,-93.42529,,,,south-station.xlsx
+USGS-EPA_R7_WQX-DW-49-497-1a,Drainage Ditch 11,41.81475,-93.49321,,,,south-station.xlsx
+USGS-EPA_R7_WQX-IA_153,South Skunk River NE of Oskaloosa,41.34064863,-92.59377118,,,,south-station.xlsx
+USGS-EPA_R7_WQX-IA_159,South Skunk River SSE of Story City,42.17004757,-93.57915004,,,,south-station.xlsx
+USGS-EPA_R7_WQX-IA_21,South Skunk River SSE of Story City,42.16624483,-93.57777156,,,,south-station.xlsx
+USGS-EPA_R7_WQX-ND-45-ND-45a,South Skunk River,42.29582,-93.60239,,,,south-station.xlsx
+USGS-EPA_R7_WQX-ND-46-ND-46a,South Skunk River,42.31049,-93.58887,,,,south-station.xlsx
+USGS-EPA_R7_WQX-ND-47-622-a,Elk Creek,41.49054,-92.85365,,,,south-station.xlsx
+USGS-EPA_R7_WQX-ND-48-ND-48a,Unnamed Creek,41.42184,-92.902,,,,south-station.xlsx
+USGS-EPA_R7_WQX-ND-49-279-a,Cherry Creek,41.62524,-93.0879,,,,south-station.xlsx
+USGS-EPA_R7_WQX-ND-50-661-1,Drainage Ditch 71,42.28178,-93.63049,,,,south-station.xlsx
+USGS-EPA_R7_WQX-ND-50-ND-50a,Drainage Ditch 71,42.30976,-93.63694,,,,south-station.xlsx
+USGS-IASNAPST-908014,Worrell Creek (County Line Road - Snapshot Site SC42),42.0052285,-93.6989404,,,,south-station.xlsx
+USGS-IASNAPST-908016,Squaw Creek @ 170th St. Bridge (Snapshot Site SC14),42.1068077,-93.7086062,,,,south-station.xlsx
+USGS-IASNAPST-908019,Montgomery Creek 1 (Snapshot Site SC8),42.1376433,-93.8236043,,,,south-station.xlsx
+USGS-IASNAPST-908020,Montgomery Creek 2 (Snapshot Site SC11),42.1315833,-93.756712,,,,south-station.xlsx
+USGS-IASNAPST-908021,Prairie Creek 1 (Snapshot Site SC12),42.1264606,-93.8356185,,,,south-station.xlsx
+USGS-IASNAPST-908022,Prairie Creek 2 (Snapshot Site SC13),42.1215857,-93.7554316,,,,south-station.xlsx
+USGS-IASNAPST-908023,Onion Creek (North Branch at V Ave - Snapshot Site SC17),42.0669329,-93.7570557,,,,south-station.xlsx
+USGS-IASNAPST-908024,Onion Creek (N Fork S Branch at V Ave and 210th - SC21),42.0479749,-93.7569514,,,,south-station.xlsx
+USGS-IASNAPST-908025,Onion Creek (S Fork S Branch at V Avenue - SC20),42.0492177,-93.7569662,,,,south-station.xlsx
+USGS-IASNAPST-908026,Beard/Mackie (Squaw Creek - Snapshot Site SC7),42.1665586,-93.7534363,,,,south-station.xlsx
+USGS-IASNAPST-908028,Glacial Creek (Squaw Creek Trib; U Ave S of 110th St-SC4),42.1921539,-93.7764849,,,,south-station.xlsx
+USGS-IASNAPST-908029,Bluestem Creek (Squaw Creek Trib; 150th St E of X Ave-SC9),42.1376295,-93.7126526,,,,south-station.xlsx
+USGS-IASNAPST-908030,Onion Creek at R-38 (Co. Line Rd - Snapshot Site SC19),42.0534136,-93.6989367,,,,south-station.xlsx
+USGS-IASNAPST-908031,Squaw Creek - 110th St & U Ave. (Snapshote Site SC3),42.1956997,-93.7755472,,,,south-station.xlsx
+USGS-IASNAPST-908034,Squaw Creek at 150th St. (Snapshot Site SC10),42.1369431,-93.7287387,,,,south-station.xlsx
+USGS-IASNAPST-908035,No Name Creek - North of 120th and Y (Snapshot Site SC6),42.1804868,-93.7582272,,,,south-station.xlsx
+USGS-IASNAPST-908036,Talynn`s North Sample Site (Snapshot Site SC5),42.1857803,-93.7571885,,,,south-station.xlsx
+USGS-IASNAPST-908055,Clear Creek Boone (site north 25 feet - Snapshot Site SC25),42.0352931,-93.7235411,,,,south-station.xlsx
+USGS-IASNAPST-940009,Squaw Creek at 390th Street (Snapshot Site SC2),42.2239563,-93.7946989,,,,south-station.xlsx
+USGS-IASNAPST-940010,Squaw Creek at Hwy 175 (Snapshot Site SC1),42.2674902,-93.8929043,,,,south-station.xlsx
+USGS-IASNAPST-940014,"Squaw Creek Snapshot (Crooked Creek, N Branch - SC45)",42.2530526,-93.8181458,,,,south-station.xlsx
+USGS-IASNAPST-940015,"Squaw Creek (Crooked Creek, S. Branch - SC46)",42.245588,-93.8154069,,,,south-station.xlsx
+USGS-IASNAPST-985009,College Creek (at State Ave. - Snapshot Site 32),42.0183427,-93.6592504,,,,south-station.xlsx
+USGS-IASNAPST-985015,College Creek (near Elwood Drive - Snapshot Site SC31),42.0254349,-93.6329301,,,,south-station.xlsx
+USGS-IASNAPST-985016,Trib to College Creek (Elwood Dr/6th St-Snapshot Site SC29),42.0270113,-93.6328853,,,,south-station.xlsx
+USGS-IASNAPST-985025,College Creek at South Dakota/Clemens (Snapshot Site SC34),42.0178412,-93.6788478,,,,south-station.xlsx
+USGS-IASNAPST-985027,Onion Creek (Reactor Woods - Snapshot Site SC22),42.0438093,-93.66773,,,,south-station.xlsx
+USGS-IASNAPST-985028,Worrell Creek (South 16th Street - Snapshot Site SC40),42.010177,-93.6330686,,,,south-station.xlsx
+USGS-IASNAPST-985029,South Branch Worrell Creek (S. 16th Street - SC41),42.0069279,-93.6244383,,,,south-station.xlsx
+USGS-IASNAPST-985030,Brookside Park (6th St. - Snapshot Site SC28),42.0273156,-93.6283342,,,,south-station.xlsx
+USGS-IASNAPST-985031,Moore Park (Snapshot Site SC18),42.066786,-93.6721771,,,,south-station.xlsx
+USGS-IASNAPST-985034,Squaw Creek above Gilbert Creek (Snapshot Site SC16),42.0720529,-93.6740339,,,,south-station.xlsx
+USGS-IASNAPST-985036,Clear Creek (Hyland Avenue - Snapshot Site SC48),42.0302713,-93.6554234,,,,south-station.xlsx
+USGS-IASNAPST-985039,Squaw Creek at Duff Avenue in Ames (Snapshot Site SC39),42.0136339,-93.6100837,,,,south-station.xlsx
+USGS-IASNAPST-985040,Squaw Creek at Fourth St. in Ames (Snapshot Site SC33),42.0178382,-93.6287724,,,,south-station.xlsx
+USGS-IASNAPST-985041,Gilbert Creek above Squaw Creek (Snapshot Site SC15),42.0728543,-93.6740544,,,,south-station.xlsx
+USGS-IASNAPST-985049,AHS Tributary of Squaw Creek (Snapshot Site SC23),42.0387478,-93.639224,,,,south-station.xlsx
+USGS-IASNAPST-985051,Squaw Creek 13th Street (Snapshot Site SC24),42.0347443,-93.635185,,,,south-station.xlsx
+USGS-IASNAPST-985061,Clear Creek Emma McCarthy Lee Bridge (Snapshot Site SC27),42.0296535,-93.662641,,,,south-station.xlsx
+USGS-IASNAPST-985064,Worle Creek (Snapshot Site SC43),42.001212,-93.6561394,,,,south-station.xlsx
+USGS-IASNAPST-985068,Squaw Creek (Maple St. - Snapshot Site SC36),42.0154435,-93.6252825,,,,south-station.xlsx
+USGS-IASNAPST-985072,College Creek ISU Arboretum (Snapshot Site SC49),42.0201331,-93.6548603,,,,south-station.xlsx
+USGS-IASNAPST-985077,Clear Creek Pammel Woods (Snapshot Site SC26),42.033915,-93.6513774,,,,south-station.xlsx
+USGS-IASNAPST-985082,Komar Creek (Snapshot Site SC44),41.9968431,-93.6609724,,,,south-station.xlsx
+USGS-IASNAPST-985083,Ames Middle School Site 2 (Snapshot Site SC38),42.0149032,-93.6699638,,,,south-station.xlsx
+USGS-IASNAPST-985084,Ames Middle School Site 3 (Snapshot Site SC37),42.0150487,-93.666632,,,,south-station.xlsx
+USGS-IASNAPST-985088,Squaw Creek (Stange Road - Snapshot Site SC50),42.0365483,-93.644397,,,,south-station.xlsx
+USGS-IASNAPST-985094,College Creek near 500th Avenue (Snapshot Site SC52),42.0206324,-93.6985052,,,,south-station.xlsx
+USGS-IASNAPST-985095,College Creek near Ash Avenue (Snapshot Site SC53),42.0230826,-93.6445509,,,,south-station.xlsx
+USGS-IASNAPST-985096,Pammel Creek above 6th Street (Snapshot Site SC54),42.0279194,-93.6331842,,,,south-station.xlsx
+USGS-IASNAPST-985097,CyRide Creek above Elwood (Snapshot Site SC55),42.0274113,-93.6338557,,,,south-station.xlsx
+USGS-IASNAPST-985098,South Stuart Smith Park (Snapshot Site SC56),42.0172906,-93.6317381,,,,south-station.xlsx
+USGS-IASNAPST-985099,Squaw Creek Drive (Snapshot Site SC57),42.0167699,-93.6198605,,,,south-station.xlsx
+USGS-IASNAPST-985100,Worrel Creek above Elwood (Snapshot Site SC58),42.0080779,-93.6396776,,,,south-station.xlsx
+USGS-IASNAPST-985107,Squaw Creek (College Creek at Wilder - Snapshot Site SC35),42.0199288,-93.6912504,,,,south-station.xlsx
+USGS-IASNAPST_WQX-908014,Worrell Creek (County Line Road - Snapshot Site SC42),42.005229,-93.69894,,,,south-station.xlsx
+USGS-IASNAPST_WQX-908016,Squaw Creek @ 170th St. Bridge (Snapshot Site SC14),42.106808,-93.708606,,,,south-station.xlsx
+USGS-IASNAPST_WQX-908019,Montgomery Creek 1 (Snapshot Site SC8),42.137643,-93.823604,,,,south-station.xlsx
+USGS-IASNAPST_WQX-908020,Montgomery Creek 2 (Snapshot Site SC11),42.131583,-93.756712,,,,south-station.xlsx
+USGS-IASNAPST_WQX-908021,Prairie Creek 1 (Snapshot Site SC12),42.126461,-93.835619,,,,south-station.xlsx
+USGS-IASNAPST_WQX-908022,Prairie Creek 2 (Snapshot Site SC13),42.121586,-93.755432,,,,south-station.xlsx
+USGS-IASNAPST_WQX-908023,Onion Creek (North Branch at V Ave - Snapshot Site SC17),42.066933,-93.757056,,,,south-station.xlsx
+USGS-IASNAPST_WQX-908024,Onion Creek (N Fork S Branch at V Ave and 210th - SC21),42.047975,-93.756951,,,,south-station.xlsx
+USGS-IASNAPST_WQX-908025,Onion Creek (S Fork S Branch at V Avenue - SC20),42.049218,-93.756966,,,,south-station.xlsx
+USGS-IASNAPST_WQX-908026,Beard/Mackie (Squaw Creek - Snapshot Site SC7),42.166559,-93.753436,,,,south-station.xlsx
+USGS-IASNAPST_WQX-908028,Glacial Creek (Squaw Creek Trib; U Ave S of 110th St-SC4),42.192154,-93.776485,,,,south-station.xlsx
+USGS-IASNAPST_WQX-908029,Bluestem Creek (Squaw Creek Trib; 150th St E of X Ave-SC9),42.13763,-93.712653,,,,south-station.xlsx
+USGS-IASNAPST_WQX-908030,Onion Creek at R-38 (Co. Line Rd - Snapshot Site SC19),42.053414,-93.698937,,,,south-station.xlsx
+USGS-IASNAPST_WQX-908031,Squaw Creek - 110th St & U Ave. (Snapshote Site SC3),42.1957,-93.775547,,,,south-station.xlsx
+USGS-IASNAPST_WQX-908034,Squaw Creek at 150th St. (Snapshot Site SC10),42.136943,-93.728739,,,,south-station.xlsx
+USGS-IASNAPST_WQX-908035,No Name Creek - North of 120th and Y (Snapshot Site SC6),42.180487,-93.758227,,,,south-station.xlsx
+USGS-IASNAPST_WQX-908036,Talynn`s North Sample Site (Snapshot Site SC5),42.18578,-93.757189,,,,south-station.xlsx
+USGS-IASNAPST_WQX-908055,Clear Creek Boone (site north 25 feet - Snapshot Site SC25),42.035293,-93.723541,,,,south-station.xlsx
+USGS-IASNAPST_WQX-940009,Squaw Creek at 390th Street (Snapshot Site SC2),42.223956,-93.794699,,,,south-station.xlsx
+USGS-IASNAPST_WQX-940010,Squaw Creek at Hwy 175 (Snapshot Site SC1),42.26749,-93.892904,,,,south-station.xlsx
+USGS-IASNAPST_WQX-940014,"Squaw Creek Snapshot (Crooked Creek, N Branch - SC45)",42.253053,-93.818146,,,,south-station.xlsx
+USGS-IASNAPST_WQX-940015,"Squaw Creek (Crooked Creek, S. Branch - SC46)",42.245588,-93.815407,,,,south-station.xlsx
+USGS-IASNAPST_WQX-985009,College Creek (at State Ave. - Snapshot Site 32),42.018343,-93.65925,,,,south-station.xlsx
+USGS-IASNAPST_WQX-985015,College Creek (near Elwood Drive - Snapshot Site SC31),42.025435,-93.63293,,,,south-station.xlsx
+USGS-IASNAPST_WQX-985016,Trib to College Creek (Elwood Dr/6th St-Snapshot Site SC29),42.027011,-93.632885,,,,south-station.xlsx
+USGS-IASNAPST_WQX-985025,College Creek at South Dakota/Clemens (Snapshot Site SC34),42.017841,-93.678848,,,,south-station.xlsx
+USGS-IASNAPST_WQX-985027,Onion Creek (Reactor Woods - Snapshot Site SC22),42.043809,-93.66773,,,,south-station.xlsx
+USGS-IASNAPST_WQX-985028,Worrell Creek (South 16th Street - Snapshot Site SC40),42.010177,-93.633069,,,,south-station.xlsx
+USGS-IASNAPST_WQX-985029,South Branch Worrell Creek (S. 16th Street - SC41),42.006928,-93.624438,,,,south-station.xlsx
+USGS-IASNAPST_WQX-985030,Brookside Park (6th St. - Snapshot Site SC28),42.027316,-93.628334,,,,south-station.xlsx
+USGS-IASNAPST_WQX-985031,Moore Park (Snapshot Site SC18),42.066786,-93.672177,,,,south-station.xlsx
+USGS-IASNAPST_WQX-985034,Squaw Creek above Gilbert Creek (Snapshot Site SC16),42.072053,-93.674034,,,,south-station.xlsx
+USGS-IASNAPST_WQX-985036,Clear Creek (Hyland Avenue - Snapshot Site SC48),42.030271,-93.655423,,,,south-station.xlsx
+USGS-IASNAPST_WQX-985039,Squaw Creek at Duff Avenue in Ames (Snapshot Site SC39),42.013634,-93.610084,,,,south-station.xlsx
+USGS-IASNAPST_WQX-985040,Squaw Creek at Fourth St. in Ames (Snapshot Site SC33),42.017838,-93.628772,,,,south-station.xlsx
+USGS-IASNAPST_WQX-985041,Gilbert Creek above Squaw Creek (Snapshot Site SC15),42.072854,-93.674054,,,,south-station.xlsx
+USGS-IASNAPST_WQX-985049,AHS Tributary of Squaw Creek (Snapshot Site SC23),42.038748,-93.639224,,,,south-station.xlsx
+USGS-IASNAPST_WQX-985051,Squaw Creek 13th Street (Snapshot Site SC24),42.034744,-93.635185,,,,south-station.xlsx
+USGS-IASNAPST_WQX-985061,Clear Creek Emma McCarthy Lee Bridge (Snapshot Site SC27),42.029654,-93.662641,,,,south-station.xlsx
+USGS-IASNAPST_WQX-985064,Worle Creek (Snapshot Site SC43),42.001212,-93.656139,,,,south-station.xlsx
+USGS-IASNAPST_WQX-985068,Squaw Creek (Maple St. - Snapshot Site SC36),42.015444,-93.625283,,,,south-station.xlsx
+USGS-IASNAPST_WQX-985072,College Creek ISU Arboretum (Snapshot Site SC49),42.020133,-93.65486,,,,south-station.xlsx
+USGS-IASNAPST_WQX-985077,Clear Creek Pammel Woods (Snapshot Site SC26),42.033915,-93.651377,,,,south-station.xlsx
+USGS-IASNAPST_WQX-985082,Komar Creek (Snapshot Site SC44),41.996843,-93.660972,,,,south-station.xlsx
+USGS-IASNAPST_WQX-985083,Ames Middle School Site 2 (Snapshot Site SC38),42.014903,-93.669964,,,,south-station.xlsx
+USGS-IASNAPST_WQX-985084,Ames Middle School Site 3 (Snapshot Site SC37),42.015049,-93.666632,,,,south-station.xlsx
+USGS-IASNAPST_WQX-985088,Squaw Creek (Stange Road - Snapshot Site SC50),42.036548,-93.644397,,,,south-station.xlsx
+USGS-IASNAPST_WQX-985094,College Creek near 500th Avenue (Snapshot Site SC52),42.020632,-93.698505,,,,south-station.xlsx
+USGS-IASNAPST_WQX-985095,College Creek near Ash Avenue (Snapshot Site SC53),42.023083,-93.644551,,,,south-station.xlsx
+USGS-IASNAPST_WQX-985096,Pammel Creek above 6th Street (Snapshot Site SC54),42.027919,-93.633184,,,,south-station.xlsx
+USGS-IASNAPST_WQX-985097,CyRide Creek above Elwood (Snapshot Site SC55),42.027411,-93.633856,,,,south-station.xlsx
+USGS-IASNAPST_WQX-985098,South Stuart Smith Park (Snapshot Site SC56),42.017291,-93.631738,,,,south-station.xlsx
+USGS-IASNAPST_WQX-985099,Squaw Creek Drive (Snapshot Site SC57),42.01677,-93.619861,,,,south-station.xlsx
+USGS-IASNAPST_WQX-985100,Worrel Creek above Elwood (Snapshot Site SC58),42.008078,-93.639678,,,,south-station.xlsx
+USGS-IASNAPST_WQX-985107,Squaw Creek (College Creek at Wilder - Snapshot Site SC35),42.019929,-93.69125,,,,south-station.xlsx
+USGS-IOWATER-908014,Worrell Creek (County Line Road),42.0052285,-93.6989405,,,,south-station.xlsx
+USGS-IOWATER-908016,Squaw Creek @ 170th St. Bridge,42.1068077,-93.7086063,,,,south-station.xlsx
+USGS-IOWATER-908017,Clear Creek Boone,42.0347799,-93.7235232,,,,south-station.xlsx
+USGS-IOWATER-908019,Montgomery Creek 1,42.1376433,-93.8236043,,,,south-station.xlsx
+USGS-IOWATER-908020,Montgomery Creek 2,42.1315834,-93.756712,,,,south-station.xlsx
+USGS-IOWATER-908021,Prairie Creek 1,42.1264606,-93.8356186,,,,south-station.xlsx
+USGS-IOWATER-908022,Prairie Creek 2,42.1215857,-93.7554317,,,,south-station.xlsx
+USGS-IOWATER-908023,Onion Creek (North Branch at V Avenue Bridge),42.066933,-93.7570558,,,,south-station.xlsx
+USGS-IOWATER-908024,Onion Creek (North fork of the South Branch at V Avenue and,42.047975,-93.7569514,,,,south-station.xlsx
+USGS-IOWATER-908025,Onion Creek (South fork of the South Branch at V Avenue),42.0492178,-93.7569662,,,,south-station.xlsx
+USGS-IOWATER-908026,Beard/Mackie (Squaw Creek),42.1665586,-93.753436,,,,south-station.xlsx
+USGS-IOWATER-908028,Glacial Creek (trib to Squaw Creek; U Ave south of 110th St),42.1921539,-93.7764849,,,,south-station.xlsx
+USGS-IOWATER-908029,Bluestem Creek (trib to Squaw Creek; 150th St East of X Ave),42.1376296,-93.7126526,,,,south-station.xlsx
+USGS-IOWATER-908030,Onion Creek at R-38 (Co. Line Rd),42.0534136,-93.6989368,,,,south-station.xlsx
+USGS-IOWATER-908031,Squaw Creek - 110th St & U Ave.,42.1956998,-93.7755473,,,,south-station.xlsx
+USGS-IOWATER-908034,Squaw Creek at 150th St.,42.1369431,-93.728738,,,,south-station.xlsx
+USGS-IOWATER-908035,No Name Creek - North of 120th and Y,42.1804868,-93.758227,,,,south-station.xlsx
+USGS-IOWATER-908036,Talynn's North Sample Site,42.1857803,-93.757188,,,,south-station.xlsx
+USGS-IOWATER-908055,Clear Creek Boone (site north 25 feet),42.0352931,-93.7235411,,,,south-station.xlsx
+USGS-IOWATER-940002,Long Dick Creek,42.2117266,-93.5073621,,,,south-station.xlsx
+USGS-IOWATER-940005,South Skunk River - R61 Riverside Bridge,42.2165835,-93.5826525,,,,south-station.xlsx
+USGS-IOWATER-940006,"South Skunk River - Hamilton Co., Lyon, 35",42.2961807,-93.6017885,,,,south-station.xlsx
+USGS-IOWATER-940007,South Skunk River - Bridge BR1067,42.3374366,-93.6002881,,,,south-station.xlsx
+USGS-IOWATER-940008,"Drainage Ditch 71, BR1016",42.2743036,-93.620583,,,,south-station.xlsx
+USGS-IOWATER-940009,Squaw Creek at 390th Street,42.2239563,-93.794698,,,,south-station.xlsx
+USGS-IOWATER-940010,Squaw Creek at Hwy 175,42.2674902,-93.892904,,,,south-station.xlsx
+USGS-IOWATER-940012,Keigley Branch,42.2525243,-93.728188,,,,south-station.xlsx
+USGS-IOWATER-940014,"Squaw Creek Snapshot (Crooked Creek, N Branch - Snapshot Sit",42.2530526,-93.8181458,,,,south-station.xlsx
+USGS-IOWATER-940015,"Squaw Creek Watershed (Crooked Creek, S. Branch -Snapshot Si",42.245588,-93.8154069,,,,south-station.xlsx
+USGS-IOWATER-949032,Belt Line Road,41.7083355,-93.015433,,,,south-station.xlsx
+USGS-IOWATER-950025,Benjamin Creek,41.7192197,-93.038638,,,,south-station.xlsx
+USGS-IOWATER-950029,Clear Creek,41.8146379,-93.2318512,,,,south-station.xlsx
+USGS-IOWATER-962008,Jr. High Creek,41.3065936,-92.637895,,,,south-station.xlsx
+USGS-IOWATER-962009,Rose Hill Access,41.2995146,-92.468716,,,,south-station.xlsx
+USGS-IOWATER-963005,Thunder Creek,41.4379692,-92.9050542,,,,south-station.xlsx
+USGS-IOWATER-963023,Ginger Creek,41.4123406,-92.902614,,,,south-station.xlsx
+USGS-IOWATER-963024,Roberts Creek,41.4123406,-92.902614,,,,south-station.xlsx
+USGS-IOWATER-963046,Site 1 - Thunder River at 195th Avenue,41.4350875,-92.9768151,,,,south-station.xlsx
+USGS-IOWATER-963047,Site 2 - Thunder River Tributary at 240th Place,41.4463362,-92.8936929,,,,south-station.xlsx
+USGS-IOWATER-963062,Pella Christian School Creek,41.405253,-92.9043241,,,,south-station.xlsx
+USGS-IOWATER-963063,Thunder Creek Watershed (S. of Elk Horn on 210th St.),41.4374021,-92.9480627,,,,south-station.xlsx
+USGS-IOWATER-963065,Thunder Creek Watershed (TC 228th St. and Erbe St.),41.438944,-92.9076143,,,,south-station.xlsx
+USGS-IOWATER-977005,Ditch 38,41.7502537,-93.3839273,,,,south-station.xlsx
+USGS-IOWATER-977007,Chichaqua 1,41.7610061,-93.3736217,,,,south-station.xlsx
+USGS-IOWATER-977008,Chichaqua 2,41.7609135,-93.3879607,,,,south-station.xlsx
+USGS-IOWATER-977009,Chichaqua 3,41.7609395,-93.3935547,,,,south-station.xlsx
+USGS-IOWATER-977010,Chichaqua 4,41.8022278,-93.4452916,,,,south-station.xlsx
+USGS-IOWATER-977017,Old South Skunk Channel (Chichaqua Wildlife Habitat Unit),41.7827339,-93.4122561,,,,south-station.xlsx
+USGS-IOWATER-977075,Polk County Snapshot (Site FMC3 - Fourmile Creek),42.0199077,-93.595371,,,,south-station.xlsx
+USGS-IOWATER-977208,#1 Bills,41.8110112,-93.4059362,,,,south-station.xlsx
+USGS-IOWATER-977209,#2 Below,41.8101197,-93.4084347,,,,south-station.xlsx
+USGS-IOWATER-982027,Keigley Creek at 160th St.,42.1224358,-93.5817286,,,,south-station.xlsx
+USGS-IOWATER-985001,College Creek,42.0203696,-93.6853368,,,,south-station.xlsx
+USGS-IOWATER-985002,Clear Creek,42.0301661,-93.6643256,,,,south-station.xlsx
+USGS-IOWATER-985003,South Skunk River (near 190th St.),42.078936,-93.5989457,,,,south-station.xlsx
+USGS-IOWATER-985004,South Skunk River (near 195th St.),42.0702278,-93.61071,,,,south-station.xlsx
+USGS-IOWATER-985006,South Skunk River,42.0859893,-93.5935106,,,,south-station.xlsx
+USGS-IOWATER-985007,Squaw Creek,42.0339112,-93.6327484,,,,south-station.xlsx
+USGS-IOWATER-985008,College Creek (at S. Dakota),42.0168508,-93.6788132,,,,south-station.xlsx
+USGS-IOWATER-985009,College Creek (at State Ave.),42.0183428,-93.6592505,,,,south-station.xlsx
+USGS-IOWATER-985010,South Skunk River (Riverside),42.0659881,-93.6203391,,,,south-station.xlsx
+USGS-IOWATER-985011,South Skunk River (Anderson),42.1448944,-93.5752417,,,,south-station.xlsx
+USGS-IOWATER-985012,South Skunk River (Soper's),42.108772,-93.5675368,,,,south-station.xlsx
+USGS-IOWATER-985013,South Skunk River (Peterson),42.088061,-93.5934695,,,,south-station.xlsx
+USGS-IOWATER-985014,South Skunk River (above low-head dam),42.048574,-93.609415,,,,south-station.xlsx
+USGS-IOWATER-985015,College Creek (near Elwood Drive),42.025435,-93.6329301,,,,south-station.xlsx
+USGS-IOWATER-985016,Tributary to College Creek (Elwood Dr. & 6th St.),42.0270114,-93.6328854,,,,south-station.xlsx
+USGS-IOWATER-985020,Bear Creek (at swinging foot bridge),42.1137139,-93.5607466,,,,south-station.xlsx
+USGS-IOWATER-985021,Keighley Creek,42.1071746,-93.5736185,,,,south-station.xlsx
+USGS-IOWATER-985022,Clear Creek West,42.0262291,-93.6829355,,,,south-station.xlsx
+USGS-IOWATER-985023,South Skunk (below dam),42.0357509,-93.595266,,,,south-station.xlsx
+USGS-IOWATER-985024,Long Dick Creek at 567th Ave.,42.1732194,-93.5698441,,,,south-station.xlsx
+USGS-IOWATER-985025,College Creek at South Dakota/Clemens,42.0178413,-93.6788479,,,,south-station.xlsx
+USGS-IOWATER-985027,Onion Creek (Reactor Woods),42.0438093,-93.6677301,,,,south-station.xlsx
+USGS-IOWATER-985028,Worrell Creek (South 16th Street),42.0101771,-93.6330687,,,,south-station.xlsx
+USGS-IOWATER-985029,South Branch Worrell Creek (S. 16th Street - Snapshot Site S,42.0069279,-93.6244383,,,,south-station.xlsx
+USGS-IOWATER-985030,Brookside Park (6th St.),42.0273156,-93.6283343,,,,south-station.xlsx
+USGS-IOWATER-985031,Moore Park,42.066786,-93.6721772,,,,south-station.xlsx
+USGS-IOWATER-985032,"Skunk River (Franklin Twp., Sec. 23)",42.0698238,-93.6104644,,,,south-station.xlsx
+USGS-IOWATER-985033,Gilbert Creek,42.1070537,-93.6471547,,,,south-station.xlsx
+USGS-IOWATER-985034,Squaw Creek above Gilbert Creek,42.0720529,-93.6740339,,,,south-station.xlsx
+USGS-IOWATER-985035,Squaw Creek below Gilbert Creek,42.0718667,-93.6735363,,,,south-station.xlsx
+USGS-IOWATER-985036,Clear Creek (Hyland Avenue),42.0302714,-93.6554234,,,,south-station.xlsx
+USGS-IOWATER-985037,Squaw Creek below Fromm Creek,42.0554507,-93.6622083,,,,south-station.xlsx
+USGS-IOWATER-985038,Fromm Creek,42.0559949,-93.6615492,,,,south-station.xlsx
+USGS-IOWATER-985039,Squaw Creek at Duff Avenue in Ames,42.013634,-93.6100838,,,,south-station.xlsx
+USGS-IOWATER-985040,Squaw Creek at Fourth St. bridge in Ames,42.0178383,-93.6287724,,,,south-station.xlsx
+USGS-IOWATER-985041,Gilbert Creek above Squaw Creek,42.0728544,-93.6740545,,,,south-station.xlsx
+USGS-IOWATER-985042,Ballard Creek Tree Farm,41.9121826,-93.6168701,,,,south-station.xlsx
+USGS-IOWATER-985048,Skunk River Trib (180th & 550th),42.0920346,-93.6000605,,,,south-station.xlsx
+USGS-IOWATER-985049,AHS Tributary of Squaw Creek,42.0387478,-93.639224,,,,south-station.xlsx
+USGS-IOWATER-985050,South Skunk River E18,42.1663268,-93.5775907,,,,south-station.xlsx
+USGS-IOWATER-985051,Squaw Creek 13th Street,42.0347443,-93.635185,,,,south-station.xlsx
+USGS-IOWATER-985056,Bear Creek 1,42.1372381,-93.542125,,,,south-station.xlsx
+USGS-IOWATER-985057,East Indian Creek 1,42.1665637,-93.46165,,,,south-station.xlsx
+USGS-IOWATER-985058,East Indian Creek 2,42.1667123,-93.427972,,,,south-station.xlsx
+USGS-IOWATER-985061,Clear Creek Emma McCarthy Lee Bridge,42.0296535,-93.662641,,,,south-station.xlsx
+USGS-IOWATER-985064,Worle Creek,42.001212,-93.656139,,,,south-station.xlsx
+USGS-IOWATER-985065,Indian Creek (Nevada Fairgrounds),42.0171075,-93.457766,,,,south-station.xlsx
+USGS-IOWATER-985067,South Skunk (River Valley Dam),42.0370666,-93.596848,,,,south-station.xlsx
+USGS-IOWATER-985068,Squaw Creek (Maple St.),42.0154435,-93.625282,,,,south-station.xlsx
+USGS-IOWATER-985069,Site 4 Indian Creek,41.9928316,-93.368503,,,,south-station.xlsx
+USGS-IOWATER-985071,Keigley Creek at 160th St.,42.1224357,-93.581728,,,,south-station.xlsx
+USGS-IOWATER-985072,College Creek ISU Arboretum,42.0201331,-93.65486,,,,south-station.xlsx
+USGS-IOWATER-985073,West Indian Creek (North NW1/4 Section 25 Milford Township),42.0631567,-93.480142,,,,south-station.xlsx
+USGS-IOWATER-985074,West Indian Creek (South NW1/4 Section 25 Milford Township),42.0563418,-93.475076,,,,south-station.xlsx
+USGS-IOWATER-985077,Clear Creek Pammel Woods,42.033915,-93.651377,,,,south-station.xlsx
+USGS-IOWATER-985081,West Indian Creek,42.0161758,-93.4565155,,,,south-station.xlsx
+USGS-IOWATER-985082,Komar Creek,41.9968431,-93.6609724,,,,south-station.xlsx
+USGS-IOWATER-985083,Ames Middle School Site 2,42.0149032,-93.6699638,,,,south-station.xlsx
+USGS-IOWATER-985084,Ames Middle School Site 3 (Snapshot Site SC37),42.0150487,-93.666632,,,,south-station.xlsx
+USGS-IOWATER-985086,Howe Welding,42.2413861,-93.8361152,,,,south-station.xlsx
+USGS-IOWATER-985087,Story City Dam,42.1860606,-93.5862836,,,,south-station.xlsx
+USGS-IOWATER-985088,Squaw Creek (Stange Road),42.0365483,-93.644397,,,,south-station.xlsx
+USGS-IOWATER-985089,McFarland Park 1,42.096994,-93.5706727,,,,south-station.xlsx
+USGS-IOWATER-985090,McFarland Park 2,42.0969939,-93.5706848,,,,south-station.xlsx
+USGS-IOWATER-985094,College Creek near 500th Avenue (Snapshot Site SC52),42.0206324,-93.6985052,,,,south-station.xlsx
+USGS-IOWATER-985095,College Creek near Ash Avenue (Snapshot Site SC53),42.0230826,-93.6445509,,,,south-station.xlsx
+USGS-IOWATER-985096,Pammel Creek above 6th Street (Snapshot Site SC54),42.0279194,-93.6331842,,,,south-station.xlsx
+USGS-IOWATER-985097,CyRide Creek above Elwood (Snapshot Site SC55),42.0274113,-93.6338557,,,,south-station.xlsx
+USGS-IOWATER-985098,South Stuart Smith Park (Snapshot Site SC56),42.0172906,-93.6317381,,,,south-station.xlsx
+USGS-IOWATER-985099,Squaw Creek Drive (Snapshot Site SC57),42.0167699,-93.6198605,,,,south-station.xlsx
+USGS-IOWATER-985100,Worrel Creek above Elwood (Snapshot Site SC58),42.0080779,-93.6396776,,,,south-station.xlsx
+USGS-IOWATER-985102,Southdale Drainage Area,41.9903373,-93.6043198,,,,south-station.xlsx
+USGS-IOWATER-985103,Squaw Creek North of 13th Street,42.035125,-93.6347418,,,,south-station.xlsx
+USGS-IOWATER-985104,Ames High Tributary near the Bike Path,42.0381211,-93.6385532,,,,south-station.xlsx
+USGS-IOWATER-985105,Ames High Outlet near Track,42.038873,-93.6361443,,,,south-station.xlsx
+USGS-IOWATER-985106,Squaw Creek 100 meters east of Stange Road,42.0368907,-93.6427694,,,,south-station.xlsx
+USGS-IOWATER-985107,Squaw Creek (College Creek at Wilder - Snapshot Site SC35),42.0199288,-93.6912504,,,,south-station.xlsx
+USGS-IOWATER-985109,South Skunk River (Ken Maril Bridge),41.9145477,-93.5866379,,,,south-station.xlsx
+USGS-IOWATER-985110,South Skunk River (SE 16th Street Canoe Access),42.009262,-93.595357,,,,south-station.xlsx
+USGS-IOWATER_WQX-908014,Worrell Creek (County Line Road - Snapshot Site SC42),42.00522854,-93.69894046,,,,south-station.xlsx
+USGS-IOWATER_WQX-908016,Squaw Creek @ 170th St. Bridge (Snapshot Site SC14),42.10680772,-93.70860627,,,,south-station.xlsx
+USGS-IOWATER_WQX-908017,Clear Creek Boone,42.03477986,-93.72352323,,,,south-station.xlsx
+USGS-IOWATER_WQX-908019,Montgomery Creek 1 (Snapshot Site SC8),42.13764332,-93.82360434,,,,south-station.xlsx
+USGS-IOWATER_WQX-908020,Montgomery Creek 2 (Snapshot Site SC11),42.13158339,-93.75671202,,,,south-station.xlsx
+USGS-IOWATER_WQX-908021,Prairie Creek 1 (Snapshot Site SC12),42.12646061,-93.83561855,,,,south-station.xlsx
+USGS-IOWATER_WQX-908022,Prairie Creek 2 (Snapshot Site SC13),42.12158573,-93.75543167,,,,south-station.xlsx
+USGS-IOWATER_WQX-908023,Onion Creek (North Branch at V Ave - Snapshot Site SC17),42.06693296,-93.75705576,,,,south-station.xlsx
+USGS-IOWATER_WQX-908024,Onion Creek (N Fork S Branch at V Ave and 210th - SC21),42.04797498,-93.75695145,,,,south-station.xlsx
+USGS-IOWATER_WQX-908025,Onion Creek (S Fork S Branch at V Avenue - SC20),42.04921778,-93.75696621,,,,south-station.xlsx
+USGS-IOWATER_WQX-908026,Beard/Mackie (Squaw Creek - Snapshot Site SC7),42.1665586,-93.75343631,,,,south-station.xlsx
+USGS-IOWATER_WQX-908028,Glacial Creek (Squaw Creek Trib; U Ave S of 110th St-SC4),42.19215394,-93.77648492,,,,south-station.xlsx
+USGS-IOWATER_WQX-908029,Bluestem Creek (Squaw Creek Trib; 150th St E of X Ave-SC9),42.13762959,-93.71265262,,,,south-station.xlsx
+USGS-IOWATER_WQX-908030,Onion Creek at R-38 (Co. Line Rd - Snapshot Site SC19),42.05341361,-93.69893679,,,,south-station.xlsx
+USGS-IOWATER_WQX-908031,Squaw Creek - 110th St & U Ave. (Snapshote Site SC3),42.19569975,-93.77554727,,,,south-station.xlsx
+USGS-IOWATER_WQX-908034,Squaw Creek at 150th St. (Snapshot Site SC10),42.13694314,-93.72873873,,,,south-station.xlsx
+USGS-IOWATER_WQX-908035,No Name Creek - North of 120th and Y (Snapshot Site SC6),42.18048683,-93.75822724,,,,south-station.xlsx
+USGS-IOWATER_WQX-908036,Talynn`s North Sample Site (Snapshot Site SC5),42.18578039,-93.7571885,,,,south-station.xlsx
+USGS-IOWATER_WQX-908055,Clear Creek Boone (site north 25 feet - Snapshot Site SC25),42.03529312,-93.72354113,,,,south-station.xlsx
+USGS-IOWATER_WQX-940002,Long Dick Creek,42.21172657,-93.50736211,,,,south-station.xlsx
+USGS-IOWATER_WQX-940005,South Skunk River - R61 Riverside Bridge,42.21658349,-93.58265248,,,,south-station.xlsx
+USGS-IOWATER_WQX-940006,"South Skunk River - Hamilton Co., Lyon, 35",42.29618069,-93.60178852,,,,south-station.xlsx
+USGS-IOWATER_WQX-940007,South Skunk River - Bridge BR1067,42.33743659,-93.60028805,,,,south-station.xlsx
+USGS-IOWATER_WQX-940008,"Drainage Ditch 71, BR1016",42.27430361,-93.62058316,,,,south-station.xlsx
+USGS-IOWATER_WQX-940009,Squaw Creek at 390th Street (Snapshot Site SC2),42.22395637,-93.79469891,,,,south-station.xlsx
+USGS-IOWATER_WQX-940010,Squaw Creek at Hwy 175 (Snapshot Site SC1),42.26749025,-93.89290437,,,,south-station.xlsx
+USGS-IOWATER_WQX-940012,Keigley Branch,42.25252433,-93.72818882,,,,south-station.xlsx
+USGS-IOWATER_WQX-940014,"Squaw Creek Snapshot (Crooked Creek, N Branch - SC45)",42.25305267,-93.81814582,,,,south-station.xlsx
+USGS-IOWATER_WQX-940015,"Squaw Creek (Crooked Creek, S. Branch - SC46)",42.24558804,-93.81540691,,,,south-station.xlsx
+USGS-IOWATER_WQX-940017,Hamilton-Liberty-24-South Skunk,42.42004333,-93.60134281,,,,south-station.xlsx
+USGS-IOWATER_WQX-949032,Belt Line Road,41.70833559,-93.01543367,,,,south-station.xlsx
+USGS-IOWATER_WQX-950019,Cherry Creek #2,41.7247327,-93.0869627,,,,south-station.xlsx
+USGS-IOWATER_WQX-950025,Benjamin Creek,41.71921974,-93.03863877,,,,south-station.xlsx
+USGS-IOWATER_WQX-950029,Clear Creek,41.81463796,-93.23185126,,,,south-station.xlsx
+USGS-IOWATER_WQX-962008,Jr. High Creek,41.30659364,-92.63789568,,,,south-station.xlsx
+USGS-IOWATER_WQX-962009,Rose Hill Access,41.29951463,-92.46871602,,,,south-station.xlsx
+USGS-IOWATER_WQX-963005,Thunder Creek,41.43796918,-92.90505416,,,,south-station.xlsx
+USGS-IOWATER_WQX-963023,Ginger Creek,41.41234061,-92.90261468,,,,south-station.xlsx
+USGS-IOWATER_WQX-963024,Roberts Creek,41.41234061,-92.90261468,,,,south-station.xlsx
+USGS-IOWATER_WQX-963046,Site 1 - Thunder River at 195th Avenue,41.43508758,-92.97681518,,,,south-station.xlsx
+USGS-IOWATER_WQX-963047,Site 2 - Thunder River Tributary at 240th Place,41.44633626,-92.89369298,,,,south-station.xlsx
+USGS-IOWATER_WQX-963061,Thunder Creek Tributary A,41.44347428,-92.93271109,,,,south-station.xlsx
+USGS-IOWATER_WQX-963062,Pella Christian School Creek,41.40525306,-92.90432415,,,,south-station.xlsx
+USGS-IOWATER_WQX-963063,Thunder Creek Watershed (S. of Elk Horn on 210th St.),41.43740214,-92.94806273,,,,south-station.xlsx
+USGS-IOWATER_WQX-963065,Thunder Creek Watershed (TC 228th St. and Erbe St.),41.43894408,-92.90761436,,,,south-station.xlsx
+USGS-IOWATER_WQX-977005,Ditch 38,41.75025372,-93.38392732,,,,south-station.xlsx
+USGS-IOWATER_WQX-977007,Chichaqua 1,41.76100606,-93.37362173,,,,south-station.xlsx
+USGS-IOWATER_WQX-977008,Chichaqua 2,41.7609135,-93.38796068,,,,south-station.xlsx
+USGS-IOWATER_WQX-977009,Chichaqua 3,41.76093951,-93.39355468,,,,south-station.xlsx
+USGS-IOWATER_WQX-977010,Chichaqua 4,41.80222779,-93.44529155,,,,south-station.xlsx
+USGS-IOWATER_WQX-977017,Old South Skunk Channel (Chichaqua Wildlife Habitat Unit),41.78273392,-93.41225614,,,,south-station.xlsx
+USGS-IOWATER_WQX-977208,#1 Bills,41.81101126,-93.40593627,,,,south-station.xlsx
+USGS-IOWATER_WQX-977209,#2 Below,41.81011973,-93.40843475,,,,south-station.xlsx
+USGS-IOWATER_WQX-977229,#3 Behind Bills,41.81287995,-93.40473208,,,,south-station.xlsx
+USGS-IOWATER_WQX-977230,#4 Below Carvers,41.81269258,-93.41183417,,,,south-station.xlsx
+USGS-IOWATER_WQX-977231,#5 Below Renas,41.80624488,-93.41147989,,,,south-station.xlsx
+USGS-IOWATER_WQX-982027,Keigley Creek at 160th St.,42.122436,-93.581729,,,,south-station.xlsx
+USGS-IOWATER_WQX-985001,College Creek,42.02037,-93.685337,,,,south-station.xlsx
+USGS-IOWATER_WQX-985002,Clear Creek,42.03016615,-93.66432556,,,,south-station.xlsx
+USGS-IOWATER_WQX-985003,South Skunk River (near 190th St.),42.07893604,-93.59894569,,,,south-station.xlsx
+USGS-IOWATER_WQX-985004,South Skunk River (near 195th St.),42.0702278,-93.61071001,,,,south-station.xlsx
+USGS-IOWATER_WQX-985006,South Skunk River,42.08598934,-93.59351065,,,,south-station.xlsx
+USGS-IOWATER_WQX-985007,Squaw Creek,42.03391117,-93.63274843,,,,south-station.xlsx
+USGS-IOWATER_WQX-985008,College Creek (at S. Dakota),42.01685074,-93.6788132,,,,south-station.xlsx
+USGS-IOWATER_WQX-985009,College Creek (at State Ave. - Snapshot Site 32),42.01834277,-93.65925046,,,,south-station.xlsx
+USGS-IOWATER_WQX-985010,South Skunk River (Riverside),42.06598813,-93.6203391,,,,south-station.xlsx
+USGS-IOWATER_WQX-985011,South Skunk River (Anderson),42.14489442,-93.57524167,,,,south-station.xlsx
+USGS-IOWATER_WQX-985012,South Skunk River (Soper`s),42.108772,-93.56753684,,,,south-station.xlsx
+USGS-IOWATER_WQX-985013,South Skunk River (Peterson),42.08806104,-93.5934695,,,,south-station.xlsx
+USGS-IOWATER_WQX-985014,South Skunk River (above low-head dam),42.048574,-93.60941501,,,,south-station.xlsx
+USGS-IOWATER_WQX-985015,College Creek (near Elwood Drive - Snapshot Site SC31),42.02543499,-93.63293012,,,,south-station.xlsx
+USGS-IOWATER_WQX-985016,Trib to College Creek (Elwood Dr/6th St-Snapshot Site SC29),42.02701139,-93.63288536,,,,south-station.xlsx
+USGS-IOWATER_WQX-985020,Bear Creek (at swinging foot bridge),42.1137139,-93.56074657,,,,south-station.xlsx
+USGS-IOWATER_WQX-985021,Keigley Creek,42.10717464,-93.57361847,,,,south-station.xlsx
+USGS-IOWATER_WQX-985022,Clear Creek West (Snapshot Site SC30),42.02622914,-93.68293547,,,,south-station.xlsx
+USGS-IOWATER_WQX-985023,South Skunk (below dam),42.03575088,-93.59526596,,,,south-station.xlsx
+USGS-IOWATER_WQX-985024,Long Dick Creek at 567th Ave.,42.17321937,-93.56984405,,,,south-station.xlsx
+USGS-IOWATER_WQX-985025,College Creek at South Dakota/Clemens (Snapshot Site SC34),42.01784126,-93.67884789,,,,south-station.xlsx
+USGS-IOWATER_WQX-985027,Onion Creek (Reactor Woods - Snapshot Site SC22),42.04380932,-93.66773006,,,,south-station.xlsx
+USGS-IOWATER_WQX-985028,Worrell Creek (South 16th Street - Snapshot Site SC40),42.01017708,-93.63306867,,,,south-station.xlsx
+USGS-IOWATER_WQX-985029,South Branch Worrell Creek (S. 16th Street - SC41),42.00692794,-93.62443838,,,,south-station.xlsx
+USGS-IOWATER_WQX-985030,Brookside Park (6th St. - Snapshot Site SC28),42.0273156,-93.62833428,,,,south-station.xlsx
+USGS-IOWATER_WQX-985031,Moore Park (Snapshot Site SC18),42.06678601,-93.67217717,,,,south-station.xlsx
+USGS-IOWATER_WQX-985032,"Skunk River (Franklin Twp., Sec. 23)",42.06982381,-93.61046438,,,,south-station.xlsx
+USGS-IOWATER_WQX-985033,Gilbert Creek,42.10705367,-93.64715466,,,,south-station.xlsx
+USGS-IOWATER_WQX-985034,Squaw Creek above Gilbert Creek (Snapshot Site SC16),42.07205292,-93.6740339,,,,south-station.xlsx
+USGS-IOWATER_WQX-985035,Squaw Creek below Gilbert Creek,42.07186671,-93.67353631,,,,south-station.xlsx
+USGS-IOWATER_WQX-985036,Clear Creek (Hyland Avenue - Snapshot Site SC48),42.03027137,-93.65542343,,,,south-station.xlsx
+USGS-IOWATER_WQX-985037,Squaw Creek below Fromm Creek,42.05545073,-93.66220824,,,,south-station.xlsx
+USGS-IOWATER_WQX-985038,Fromm Creek,42.05599492,-93.66154921,,,,south-station.xlsx
+USGS-IOWATER_WQX-985039,Squaw Creek at Duff Avenue in Ames (Snapshot Site SC39),42.01363398,-93.61008376,,,,south-station.xlsx
+USGS-IOWATER_WQX-985040,Squaw Creek at Fourth St. in Ames (Snapshot Site SC33),42.01783828,-93.62877241,,,,south-station.xlsx
+USGS-IOWATER_WQX-985041,Gilbert Creek above Squaw Creek (Snapshot Site SC15),42.07285438,-93.67405446,,,,south-station.xlsx
+USGS-IOWATER_WQX-985042,Ballard Creek Tree Farm,41.91218261,-93.61687005,,,,south-station.xlsx
+USGS-IOWATER_WQX-985048,Skunk River Trib (180th & 550th),42.09203465,-93.60006046,,,,south-station.xlsx
+USGS-IOWATER_WQX-985049,AHS Tributary of Squaw Creek (Snapshot Site SC23),42.03874783,-93.63922402,,,,south-station.xlsx
+USGS-IOWATER_WQX-985050,South Skunk River E18,42.1663268,-93.57759071,,,,south-station.xlsx
+USGS-IOWATER_WQX-985051,Squaw Creek 13th Street (Snapshot Site SC24),42.03474433,-93.63518502,,,,south-station.xlsx
+USGS-IOWATER_WQX-985056,Bear Creek 1,42.13723811,-93.54212536,,,,south-station.xlsx
+USGS-IOWATER_WQX-985057,East Indian Creek 1,42.16656371,-93.46165086,,,,south-station.xlsx
+USGS-IOWATER_WQX-985058,East Indian Creek 2,42.1667123,-93.4279721,,,,south-station.xlsx
+USGS-IOWATER_WQX-985061,Clear Creek Emma McCarthy Lee Bridge (Snapshot Site SC27),42.02965351,-93.66264107,,,,south-station.xlsx
+USGS-IOWATER_WQX-985064,Worle Creek (Snapshot Site SC43),42.00121205,-93.6561394,,,,south-station.xlsx
+USGS-IOWATER_WQX-985065,Indian Creek (Nevada Fairgrounds),42.01710751,-93.45776627,,,,south-station.xlsx
+USGS-IOWATER_WQX-985067,South Skunk (River Valley Dam),42.03706662,-93.59684886,,,,south-station.xlsx
+USGS-IOWATER_WQX-985068,Squaw Creek (Maple St. - Snapshot Site SC36),42.01544358,-93.62528256,,,,south-station.xlsx
+USGS-IOWATER_WQX-985069,Site 4 Indian Creek,41.99283165,-93.36850313,,,,south-station.xlsx
+USGS-IOWATER_WQX-985071,Keigley Creek at 160th St.,42.12243575,-93.58172861,,,,south-station.xlsx
+USGS-IOWATER_WQX-985072,College Creek ISU Arboretum (Snapshot Site SC49),42.02013319,-93.65486032,,,,south-station.xlsx
+USGS-IOWATER_WQX-985073,West Indian Creek (North NW1/4 Section 25 Milford Township),42.06315676,-93.48014294,,,,south-station.xlsx
+USGS-IOWATER_WQX-985074,West Indian Creek (South NW1/4 Section 25 Milford Township),42.05634188,-93.47507618,,,,south-station.xlsx
+USGS-IOWATER_WQX-985077,Clear Creek Pammel Woods (Snapshot Site SC26),42.03391504,-93.65137746,,,,south-station.xlsx
+USGS-IOWATER_WQX-985081,West Indian Creek,42.01617581,-93.45651558,,,,south-station.xlsx
+USGS-IOWATER_WQX-985082,Komar Creek (Snapshot Site SC44),41.99684314,-93.66097244,,,,south-station.xlsx
+USGS-IOWATER_WQX-985083,Ames Middle School Site 2 (Snapshot Site SC38),42.01490327,-93.66996388,,,,south-station.xlsx
+USGS-IOWATER_WQX-985084,Ames Middle School Site 3 (Snapshot Site SC37),42.01504876,-93.66663202,,,,south-station.xlsx
+USGS-IOWATER_WQX-985086,Howe Welding,42.01408499,-93.61333687,,,,south-station.xlsx
+USGS-IOWATER_WQX-985087,Story City Dam,42.18606063,-93.58628365,,,,south-station.xlsx
+USGS-IOWATER_WQX-985088,Squaw Creek (Stange Road - Snapshot Site SC50),42.03654833,-93.64439705,,,,south-station.xlsx
+USGS-IOWATER_WQX-985089,McFarland Park 1,42.09691308,-93.57064784,,,,south-station.xlsx
+USGS-IOWATER_WQX-985090,McFarland Park 2,42.09709332,-93.57062527,,,,south-station.xlsx
+USGS-IOWATER_WQX-985094,College Creek near 500th Avenue (Snapshot Site SC52),42.02063244,-93.6985052,,,,south-station.xlsx
+USGS-IOWATER_WQX-985095,College Creek near Ash Avenue (Snapshot Site SC53),42.02308265,-93.64455095,,,,south-station.xlsx
+USGS-IOWATER_WQX-985096,Pammel Creek above 6th Street (Snapshot Site SC54),42.0279194,-93.63318428,,,,south-station.xlsx
+USGS-IOWATER_WQX-985097,CyRide Creek above Elwood (Snapshot Site SC55),42.02741133,-93.63385571,,,,south-station.xlsx
+USGS-IOWATER_WQX-985098,South Stuart Smith Park (Snapshot Site SC56),42.01729061,-93.63173818,,,,south-station.xlsx
+USGS-IOWATER_WQX-985099,Squaw Creek Drive (Snapshot Site SC57),42.01676994,-93.61986053,,,,south-station.xlsx
+USGS-IOWATER_WQX-985100,Worrel Creek above Elwood (Snapshot Site SC58),42.00807793,-93.63967768,,,,south-station.xlsx
+USGS-IOWATER_WQX-985102,Southdale Drainage Area,41.99033735,-93.60431982,,,,south-station.xlsx
+USGS-IOWATER_WQX-985103,Squaw Creek North of 13th Street,42.03529136,-93.63561331,,,,south-station.xlsx
+USGS-IOWATER_WQX-985104,Ames High Tributary near the Bike Path,42.03812111,-93.63855324,,,,south-station.xlsx
+USGS-IOWATER_WQX-985105,Ames High Outlet near Track,42.03887302,-93.63614437,,,,south-station.xlsx
+USGS-IOWATER_WQX-985106,Squaw Creek 100 meters east of Stange Road,42.0368907,-93.64276949,,,,south-station.xlsx
+USGS-IOWATER_WQX-985107,Squaw Creek (College Creek at Wilder - Snapshot Site SC35),42.01992881,-93.69125046,,,,south-station.xlsx
+USGS-IOWATER_WQX-985109,South Skunk River (Ken Maril Bridge),41.9145477,-93.58663796,,,,south-station.xlsx
+USGS-IOWATER_WQX-985110,South Skunk River (SE 16th Street Canoe Access),42.00926205,-93.59535707,,,,south-station.xlsx
+USGS-IOWATER_WQX-985111,Hickory Grove Lake Tributary (Site 1),41.97971355,-93.3377192,,,,south-station.xlsx
+USGS-IOWATER_WQX-985115,Ames High Tiles near the Science Wing,42.04061186,-93.63604089,,,,south-station.xlsx
+USGS-IOWATER_WQX-985116,Cyclone Contracting,42.07159897,-93.67618079,,,,south-station.xlsx
+USGS-IOWATER_WQX-985118,College Creek,42.03363558,-93.63209332,,,,south-station.xlsx
+USGS-IOWATER_WQX-985120,College Creek,42.02040357,-93.68567534,,,,south-station.xlsx
+USGS-IOWATER_WQX-985121,Upper College Creek,42.02062165,-93.68686138,,,,south-station.xlsx
+USGS-IOWATER_WQX-985122,Lower College Creek,42.01991675,-93.68424486,,,,south-station.xlsx
+USGS-IOWATER_WQX-985123,McFarland 3,42.09351275,-93.56617945,,,,south-station.xlsx
+USGS-IWLA-CWH10195,Grant Creek @280th St,41.9503736665,-93.4574525128,,,,south-station.xlsx
+USGS-IWLA-CWH10241,West Indian Creek @ Story County Fairgrounds,42.017054861,-93.4577991499,,,,south-station.xlsx
+USGS-IWLA-CWH10723,South Skunk River @ Hwy E18,42.1659597342,-93.5779182544,,,,south-station.xlsx
+USGS-IWLA-CWH10724,South Skunk River @ S. 16th St,42.0086716169,-93.5954512832,,,,south-station.xlsx
+USGS-IWLA-CWH10725,South Skunk River @ 13th St,42.037163708,-93.599127963,,,,south-station.xlsx
+USGS-IWLA-CWH10726,South Skunk River @ 150th St,42.137549574,-93.5673141858,,,,south-station.xlsx
+USGS-IWLA-CWH10727,South Skunk River @ N. Riverside,42.0661871227,-93.6205192694,,,,south-station.xlsx
+USGS-IWLA-CWH10728,South Skunk River @ 170th St,42.1061312953,-93.5698309921,,,,south-station.xlsx
+USGS-IWLA-CWH10732,Drainage Ditch 13 @250th St,41.99373,-93.554097,,,,south-station.xlsx
+USGS-IWLA-CWH10744,East Indian Creek @ Praeri Rail Trail,42.1668,-93.4617,,,,south-station.xlsx
+USGS-IWLA-CWH386,Squaw Creek (Stange Road - Snapshot Site SC50),42.036548,-93.644397,,,,south-station.xlsx
+USGS-IWLA-CWH476,Prairie Creek 2 (Snapshot Site SC13),42.121586,-93.755432,,,,south-station.xlsx
+USGS-IWLA-CWH482,Prairie Creek 1 (Snapshot Site SC12),42.126461,-93.835619,,,,south-station.xlsx
+USGS-IWLA-CWH561,West Indian Creek @280th St,41.950367,-93.45615,,,,south-station.xlsx
+USGS-IWLA-CWH7261,East Indian Creek 2,42.1667123,-93.4279721,,,,south-station.xlsx
+USGS-IWLA-CWH7457,Fromm Creek,42.05599492,-93.66154921,,,,south-station.xlsx
+USGS-IWLA-CWH7458,Squaw Creek at Duff Avenue in Ames (Snapshot Site SC39),42.01363398,-93.61008376,,,,south-station.xlsx
+USGS-IWLA-CWH9891,Squaw Creek @ 170th St. Bridge (Snapshot Site SC14),42.10680772,-93.70860627,,,,south-station.xlsx
+USGS-NALMS-F455456,"Clear Creek, Story County, IA, USA",42.036,-93.649,,,,south-station.xlsx
+USGS-NALMS-F458593,"Long Dick Creek, Story County, IA, USA",42.169,-93.576,,,,south-station.xlsx
+USGS-NARS-IAW02344-0131,Prairie Creek,42.11,-93.82,,,,south-station.xlsx
+USGS-NARSTEST-FW08IA044,South Skunk River,41.485549,-92.90182,,,,south-station.xlsx
+USGS-NARSTEST-FW08IA049,South Skunk River,41.31754,-92.52828,,,,south-station.xlsx
+USGS-NARS_WQX-FW08IA044,South Skunk River,41.48554921,-92.90182008,,,,south-station.xlsx
+USGS-NARS_WQX-FW08IA049,South Skunk River,41.31754055,-92.5282867,,,,south-station.xlsx
+USGS-NARS_WQX-IALS-1052,Onion Creek,42.05726,-93.73743,,,,south-station.xlsx
+USGS-NARS_WQX-IARF-0001,Des Moines Lobe,42.11479216,-93.56017424,,,,south-station.xlsx
+USGS-NARS_WQX-IASS-1090,Des Moines Lobe,42.10432,-93.35417,,,,south-station.xlsx
+USGS-NARS_WQX-NRS_IA-10109,Onion Creek,42.05725933,-93.73743341,,,,south-station.xlsx
+USGS-NARS_WQX-NRS_IA-10165,NRS_IA-10165,41.38876705,-92.64359629,,,,south-station.xlsx
+USGS-OST_SHPD-NRSA0809-IA044,South Skunk River,41.48555,-92.90182,,,,south-station.xlsx
+USGS-OST_SHPD-NRSA0809-IA049,South Skunk River,41.31754,-92.52829,,,,south-station.xlsx
+USGS-OST_SHPD_TEST-NRSA0809-IA044,South Skunk River,41.48555,-92.90182,,,,south-station.xlsx
+USGS-OST_SHPD_TEST-NRSA0809-IA049,South Skunk River,41.31754,-92.52829,,,,south-station.xlsx
+USGS-PCCB_WQX-977306,CBL 977306,41.77698,-93.3961,,,,south-station.xlsx
+USGS-PCCB_WQX-977307,CCR 977307,41.795,-93.4113,,,,south-station.xlsx
+USGS-PCCB_WQX-977310,C04 977310,41.7896,-93.418,,,,south-station.xlsx
+USGS-PCCB_WQX-977311,C38 977311,41.7465,-93.3816,,,,south-station.xlsx
+USGS-PCCB_WQX-977322,SSN 977322,41.710096,-93.376935,,,,south-station.xlsx
+USGS-PCCB_WQX-977327,IIN 977327,41.8566,-93.3862,,,,south-station.xlsx
+USGS-SRA-IAWC-IAWC140,IAWC140,41.9470783,-93.60559364,,,,south-station.xlsx
+USGS-SRA-IAWC-IAWC310,IAWC310,41.954677,-93.63968344,,,,south-station.xlsx
+USGS-SRA-IAWC-IAWC330,IAWC330,41.93906018,-93.56551619,,,,south-station.xlsx
+USGS-SRA-IAWC-IAWC340,IAWC340,41.96568689,-93.65841276,,,,south-station.xlsx
+USGS-SRA-IAWC-IAWC400,IAWC400,41.93503192,-93.54100945,,,,south-station.xlsx
+USGS-SRA-IAWC-IAWC430,IAWC430,42.05636502,-93.7180498,,,,south-station.xlsx
+USGS-SRA-IAWC-IAWC440,IAWC440,42.00828542,-93.59521083,,,,south-station.xlsx

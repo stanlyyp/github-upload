@@ -1,0 +1,46 @@
+#
+#
+# US Geological Survey
+# retrieved: 2026-09-02 17:35:45 -04:00	(vaas01)
+#
+# The Site File stores location and general information about groundwater,
+# surface water, and meteorological sites
+# for sites in USA.
+#
+# File-format description:  http://help.waterdata.usgs.gov/faq/about-tab-delimited-output
+# Automated-retrieval info: http://waterservices.usgs.gov/rest/Site-Service.html
+#
+# Contact:   gs-w_support_nwisweb@usgs.gov
+# Warning: A site search criterion has been used for which the data may be unavailable.
+#
+# The following selected fields are included in this output:
+#
+#  agency_cd       -- Agency
+#  site_no         -- Site identification number
+#  station_nm      -- Site name
+#  site_tp_cd      -- Site type
+#  dec_lat_va      -- Decimal latitude
+#  dec_long_va     -- Decimal longitude
+#  coord_acy_cd    -- Latitude-longitude accuracy
+#  dec_coord_datum_cd -- Decimal Latitude-longitude datum
+#  alt_va          -- Altitude of Gage/land surface
+#  alt_acy_va      -- Altitude accuracy
+#  alt_datum_cd    -- Altitude datum
+#  huc_cd          -- Hydrologic unit code
+#
+agency_cd	site_no	station_nm	site_tp_cd	dec_lat_va	dec_long_va	coord_acy_cd	dec_coord_datum_cd	alt_va	alt_acy_va	alt_datum_cd	huc_cd
+5s	15s	50s	7s	16s	16s	1s	10s	8s	3s	10s	16s
+USGS	03343170	DRAINAGE DITCH AT DEVONSHIRE DR AT CHAMPAIGN, IL	ST	40.0897222	-88.2522222	S	NAD83	 700.00	.01	NAVD88	05120112
+USGS	03343200	EMBARRAS RIVER TRIBUTARY AT CHAMPAIGN, IL	ST	40.0858333	-88.2433333	S	NAD83	 719.70	.01	NGVD29	05120112
+USGS	03343395	EMBARRAS RIVER AT CAMARGO, IL	ST	39.7997548	-88.1703207	U	NAD83				05120112
+USGS	03343400	EMBARRAS RIVER NEAR CAMARGO, IL	ST	39.79163889	-88.1857778	F	NAD83	622.18	.01	NAVD88	05120112
+USGS	03343450	BRUSHY FORK AT HUME, IL	ST	39.80916667	-87.8672222	S	NAD83				05120112
+USGS	03343805	KICKAPOO CREEK NEAR MATTOON, IL	ST	39.46527778	-88.33638889	S	NAD83				05120112
+USGS	03343820	KICKAPOO CREEK AT 1320E ROAD NR CHARLESTON, IL	ST	39.465	-88.2302778	S	NAD83	 598.40	0.1	NAVD88	05120112
+USGS	03344000	EMBARRAS RIVER NEAR DIONA, IL	ST	39.34448124	-88.1708729	U	NAD83	 534.00	.01	NGVD29	05120112
+USGS	03344435	ISLAND CREEK NEAR WOODBURY, IL	ST	39.1797222	-88.2783333	S	NAD83				05120112
+USGS	03345500	EMBARRAS RIVER AT STE. MARIE, IL	ST	38.93669444	-88.0223333	F	NAD83	445.15	.02	NAVD88	05120112
+USGS	03346000	NORTH FORK EMBARRAS RIVER NEAR OBLONG, IL	ST	39.01027778	-87.9455556	F	NAD83	455.79	.05	NAVD88	05120112
+USGS	03346500	EMBARRAS RIVER AT LAWRENCEVILLE, IL	ST	38.72380556	-87.6643611	F	NAD83	 382.24	.01	NAVD88	05120112
+USGS	03346550	EMBARRAS RIVER NEAR BILLETT, IL	ST	38.6650471	-87.6264133	U	NAD83				05120112
+USGS	384224087353601	ALLISON DITCH NEAR VINCENNES, IN	ST	38.71777778	-87.5943611	1	NAD83				05120112

@@ -1,0 +1,269 @@
+site_id,station_name,latitude,longitude,drainage_area,state,county,data_source
+USGS-05446700,"ILL & MISS CANAL NEAR SHEFFIELD, IL",41.40031325,-89.7331559,,,,greenriver-station.xlsx
+USGS-05446740,"ILL & MISS FEEDER CANAL NEAR MINERAL, IL",41.4319793,-89.7901026,,,,greenriver-station.xlsx
+USGS-05446750,"ILL & MISS CANAL AT LOCK 22 NEAR MINERAL, IL",41.4017019,-89.7976029,,,,greenriver-station.xlsx
+USGS-05446800,"ILL & MISS CANAL AT LOCK 28 AT COLONA, IL",41.4808677,-90.348738,,,,greenriver-station.xlsx
+USGS-05446950,"GREEN RIVER TRIBUTARY NEAR AMBOY, IL",41.758366,-89.3362077,0.53,,,greenriver-station.xlsx
+USGS-05447000,"GREEN RIVER AT AMBOY, IL",41.70975525,-89.3245392,201.0,,,greenriver-station.xlsx
+USGS-05447050,"GREEN RIVER TRIBUTARY NEAR OHIO, IL",41.6536452,-89.458708,4.95,,,greenriver-station.xlsx
+USGS-05447100,"GREEN RIVER NEAR DEER GROVE, IL",41.5939222,-89.6895466,322.0,,,greenriver-station.xlsx
+USGS-05447200,"NORMANDY DITCH AT NORMANDY, IL",41.56392284,-89.6556558,5.23,,,greenriver-station.xlsx
+USGS-05447350,"MUD CREEK TRIBUTARY NEAR ATKINSON, IL",41.34503559,-90.0440021,1.22,,,greenriver-station.xlsx
+USGS-05447370,"MUD CREEK AT ANNAWAN, IL",41.40114607,-89.9203858,80.5,,,greenriver-station.xlsx
+USGS-05447390,"COAL CREEK AT SHEFFIELD, IL",41.361147,-89.74537839,25.3,,,greenriver-station.xlsx
+USGS-05447391,"COAL CREEK NEAR MINERAL, IL",41.3869799,-89.7981584,27.4,,,greenriver-station.xlsx
+USGS-05447392,"LAWSON CREEK TRIB NO 1 NEAR NEPONSET, IL",41.34003609,-89.7926025,,,,greenriver-station.xlsx
+USGS-05447393,"LAWSON CREEK TRIB NO 2 (PLOT A) NR NEPONSET, IL",41.338925,-89.7912136,,,,greenriver-station.xlsx
+USGS-05447394,LAWSON CREEK TRIB NO 2 (PLOT B) NEAR NEPONSET IL,41.338925,-89.7914914,,,,greenriver-station.xlsx
+USGS-05447395,"LAWSON CREEK TRIB NO 2 NEAR NEPONSET, IL",41.34003609,-89.7923247,,,,greenriver-station.xlsx
+USGS-05447396,"LAWSON CREEK TRIB NO 3 NEAR NEPONSET, IL",41.3378139,-89.790658,0.01,,,greenriver-station.xlsx
+USGS-05447397,"LAWSON CREEK TRIB NO 4 (PLOT C) NR NEPONSET, IL",41.3333695,-89.79065799,,,,greenriver-station.xlsx
+USGS-05447398,"LAWSON CREEK TRIB NO 4 (PLOT D) NR NEPONSET, IL",41.33309174,-89.7903802,,,,greenriver-station.xlsx
+USGS-05447399,"LAWSON CREEK TRIB NO 4 NEAR NEPONSET, IL",41.33281397,-89.7898246,,,,greenriver-station.xlsx
+USGS-05447400,"KING CREEK AT MINERAL, IL",41.3833687,-89.8428825,17.6,,,greenriver-station.xlsx
+USGS-05447430,"MUD CREEK NEAR ANNAWAN, IL",41.4369788,-89.953165,240.0,,,greenriver-station.xlsx
+USGS-05447500,"GREEN RIVER NEAR GENESEO, IL",41.4889333,-90.1580083,1003.0,,,greenriver-station.xlsx
+USGS-05447550,"GENESEO CREEK AT GENESEO, IL",41.4567012,-90.1681744,23.9,,,greenriver-station.xlsx
+USGS-05447600,"GREEN RIVER AT STATE HWY 84 AT GREEN ROCK, IL",41.46420117,-90.3567938,1108.0,,,greenriver-station.xlsx
+USGS-412006089472601,SHEFFIELD SE FLUME 1,41.33503616,-89.790658,,,,greenriver-station.xlsx
+USGS-412018089471602,SHEFFIELD SE STREAM 1,41.33836946,-89.7878801,,,,greenriver-station.xlsx
+USGS-412911089540101,"GREEN RIVER NEAR HOOPPOLE, IL",41.48638889,-89.9002778,,,,greenriver-station.xlsx
+USGS-ILRIVERWATCH-R0100601,Green R,41.69805,-89.34578,,,,greenriver-station.xlsx
+USGS-ILRIVERWATCH-R0100901,Geneseo Cr,41.4244,-90.2019,,,,greenriver-station.xlsx
+USGS-ILRIVERWATCH-R0100902,Geneseo Cr,41.4603,-90.1672,,,,greenriver-station.xlsx
+USGS-ILRIVERWATCH-R0101101,Spring Cr,41.45724,-90.06058,,,,greenriver-station.xlsx
+USGS-ILRIVERWATCH-R0101501,King Cr,41.35024,-89.86866,,,,greenriver-station.xlsx
+USGS-ILRIVERWATCH-R0119301,Giant Goose Trib,41.41338,-89.97704,,,,greenriver-station.xlsx
+USGS-IL_EPA-DQZA-01,HENNEPIN FEEDR CANL,41.5694444,-89.7675,,,,greenriver-station.xlsx
+USGS-IL_EPA-DQZA-03,HENNEPIN FEEDR CANL,41.4383333,-89.79,,,,greenriver-station.xlsx
+USGS-IL_EPA-PB-01,GREEN RIVER,41.4641,-90.35759,,,,greenriver-station.xlsx
+USGS-IL_EPA-PB-02,GREEN RIVER,41.59464,-89.68918,,,,greenriver-station.xlsx
+USGS-IL_EPA-PB-03,GREEN RIVER,41.47433,-90.01052,,,,greenriver-station.xlsx
+USGS-IL_EPA-PB-04,GREEN RIVER,41.48879,-90.15789,,,,greenriver-station.xlsx
+USGS-IL_EPA-PB-05,GREEN RIVER,41.78347,-89.16843,,,,greenriver-station.xlsx
+USGS-IL_EPA-PB-06,GREEN RIVER,41.63762,-89.55497,,,,greenriver-station.xlsx
+USGS-IL_EPA-PB-07,GREEN RIVER,41.66432,-89.49758,,,,greenriver-station.xlsx
+USGS-IL_EPA-PB-08,GREEN RIVER,41.48383,-89.82933,,,,greenriver-station.xlsx
+USGS-IL_EPA-PB-09,GREEN RIVER,41.47778,-90.32097,,,,greenriver-station.xlsx
+USGS-IL_EPA-PB-10,GREEN RIVER,41.71659,-89.30536,,,,greenriver-station.xlsx
+USGS-IL_EPA-PB-14,GREEN RIVER,41.7242,-89.26594,,,,greenriver-station.xlsx
+USGS-IL_EPA-PB-19,GREEN RIVER,41.67695,-89.4398,,,,greenriver-station.xlsx
+USGS-IL_EPA-PB-28,GREEN RIVER,41.47251,-90.05787,,,,greenriver-station.xlsx
+USGS-IL_EPA-PB-29,GREEN RIVER,41.6891667,-89.360277,,,,greenriver-station.xlsx
+USGS-IL_EPA-PB-A-A1,GREEN RIVER,41.698337,-89.34167,,,,greenriver-station.xlsx
+USGS-IL_EPA-PB-A-C1,GREEN RIVER,41.698337,-89.34167,,,,greenriver-station.xlsx
+USGS-IL_EPA-PB-A-C2,GREEN RIVER,41.698337,-89.34167,,,,greenriver-station.xlsx
+USGS-IL_EPA-PB-A-C3,GREEN RIVER,41.698337,-89.34167,,,,greenriver-station.xlsx
+USGS-IL_EPA-PB-A-C4,GREEN RIVER,41.698337,-89.34167,,,,greenriver-station.xlsx
+USGS-IL_EPA-PB-A-E,GREEN RIVER,41.698337,-89.34167,,,,greenriver-station.xlsx
+USGS-IL_EPA-PB-GN-A1,GREEN RIVER,41.460004,-90.166671,,,,greenriver-station.xlsx
+USGS-IL_EPA-PB-GN-C2,GREEN RIVER,41.460004,-90.166671,,,,greenriver-station.xlsx
+USGS-IL_EPA-PB-GN-E1,GREEN RIVER,41.460004,-90.166671,,,,greenriver-station.xlsx
+USGS-IL_EPA-PBA-OR-A1,MOSQUITO CREEK,41.356392,-90.380838,,,,greenriver-station.xlsx
+USGS-IL_EPA-PBA-OR-C1,MOSQUITO CREEK,41.360003,-90.381392,,,,greenriver-station.xlsx
+USGS-IL_EPA-PBA-OR-C1A,MOSQUITO CREEK,41.360003,-90.381392,,,,greenriver-station.xlsx
+USGS-IL_EPA-PBA-OR-C2,MOSQUITO CREEK,41.376392,-90.37056,,,,greenriver-station.xlsx
+USGS-IL_EPA-PBA-OR-C3,MOSQUITO CREEK,41.410281,-90.375281,,,,greenriver-station.xlsx
+USGS-IL_EPA-PBA-OR-E1,MOSQUITO CREEK,41.357781,-90.380838,,,,greenriver-station.xlsx
+USGS-IL_EPA-PBC-10,MUD CREEK-WEST,41.4263889,-90.323777,,,,greenriver-station.xlsx
+USGS-IL_EPA-PBD-01,MINERAL CREEK,41.4613333,-90.319305,,,,greenriver-station.xlsx
+USGS-IL_EPA-PBD-02,MINERAL CREEK,41.45463,-90.29559,,,,greenriver-station.xlsx
+USGS-IL_EPA-PBD-10,MINERAL CREEK,41.4639444,-90.338777,,,,greenriver-station.xlsx
+USGS-IL_EPA-PBD-11,MINERAL CREEK,41.4403333,-90.273611,,,,greenriver-station.xlsx
+USGS-IL_EPA-PBE-01,GENESEO CREEK,41.4477,-90.16314,,,,greenriver-station.xlsx
+USGS-IL_EPA-PBE-10,GENESEO CREEK,41.4809722,-90.181111,,,,greenriver-station.xlsx
+USGS-IL_EPA-PBE-11,GENESEO CREEK,41.4683889,-90.175833,,,,greenriver-station.xlsx
+USGS-IL_EPA-PBE-12,GENESEO CREEK,41.4605556,-90.167083,,,,greenriver-station.xlsx
+USGS-IL_EPA-PBE-13,GENESEO CREEK,41.4561667,-90.16875,,,,greenriver-station.xlsx
+USGS-IL_EPA-PBE-14,GENESEO CREEK,41.425,-90.182222,,,,greenriver-station.xlsx
+USGS-IL_EPA-PBE-GN-D1,GENESEO CREEK,41.460004,-90.166671,,,,greenriver-station.xlsx
+USGS-IL_EPA-PBE-GN-D2,GENESEO CREEK,41.460004,-90.166671,,,,greenriver-station.xlsx
+USGS-IL_EPA-PBG-01,BIG SLOUGH DR DITCH,41.4966667,-90.109166,,,,greenriver-station.xlsx
+USGS-IL_EPA-PBG-10,BIG SLOUGH DR DITCH,41.49312,-90.13328,,,,greenriver-station.xlsx
+USGS-IL_EPA-PBG-11,BIG SLOUGH DR DITCH,41.5541667,-90.035833,,,,greenriver-station.xlsx
+USGS-IL_EPA-PBG-12,BIG SLOUGH DR DITCH,41.51209,-90.08642,,,,greenriver-station.xlsx
+USGS-IL_EPA-PBH-10,BLUE JOINT DR DITCH,41.48,-90.109166,,,,greenriver-station.xlsx
+USGS-IL_EPA-PBI-01,SPRING CREEK,41.41917,-90.08805,,,,greenriver-station.xlsx
+USGS-IL_EPA-PBI-02,SPRING CREEK,41.43684,-90.06785,,,,greenriver-station.xlsx
+USGS-IL_EPA-PBI-03,SPRING CREEK,41.45714,-90.06052,,,,greenriver-station.xlsx
+USGS-IL_EPA-PBI-04,SPRING CREEK,41.39613,-90.08,,,,greenriver-station.xlsx
+USGS-IL_EPA-PBI-12,SPRING CREEK,41.3538333,-90.114861,,,,greenriver-station.xlsx
+USGS-IL_EPA-PBI-13,SPRING CREEK,41.3405556,-90.145,,,,greenriver-station.xlsx
+USGS-IL_EPA-PBIZ-10,SPRING CR-UNAM TRIB,41.3452778,-90.145,,,,greenriver-station.xlsx
+USGS-IL_EPA-PBJ-01,MUD CREEK-EAST,41.4002778,-89.920277,,,,greenriver-station.xlsx
+USGS-IL_EPA-PBJ-03,MUD CREEK-EAST,41.38605,-89.95312,,,,greenriver-station.xlsx
+USGS-IL_EPA-PBJ-04,MUD CREEK-EAST,41.45595,-89.97208,,,,greenriver-station.xlsx
+USGS-IL_EPA-PBJ-05,MUD CREEK-EAST,41.3102778,-89.973333,,,,greenriver-station.xlsx
+USGS-IL_EPA-PBJ-06,MUD CREEK-EAST,41.4333333,-89.948055,,,,greenriver-station.xlsx
+USGS-IL_EPA-PBJ-07,MUD CREEK-EAST,41.3641667,-89.986666,,,,greenriver-station.xlsx
+USGS-IL_EPA-PBJA-01,COAL CREEK,41.38625,-89.799444,,,,greenriver-station.xlsx
+USGS-IL_EPA-PBJA-02,COAL CREEK,41.38676,-89.78433,,,,greenriver-station.xlsx
+USGS-IL_EPA-PBJA-03,COAL CREEK,41.43303,-89.92014,,,,greenriver-station.xlsx
+USGS-IL_EPA-PBJA-04,COAL CREEK,41.41525,-89.84825,,,,greenriver-station.xlsx
+USGS-IL_EPA-PBJA-05,COAL CREEK,41.34147,-89.73178,,,,greenriver-station.xlsx
+USGS-IL_EPA-PBJA-S-A1,COAL CREEK,41.361948,-89.746393,,,,greenriver-station.xlsx
+USGS-IL_EPA-PBJA-S-C1,COAL CREEK,41.362226,-89.74667,,,,greenriver-station.xlsx
+USGS-IL_EPA-PBJA-S-C2,COAL CREEK,41.365003,-89.750837,,,,greenriver-station.xlsx
+USGS-IL_EPA-PBJA-S-C3,COAL CREEK,41.388059,-89.784171,,,,greenriver-station.xlsx
+USGS-IL_EPA-PBJA-S-E,COAL CREEK,41.361948,-89.746116,,,,greenriver-station.xlsx
+USGS-IL_EPA-PBJAAZA-01,U-TRIB LAWSON CREEK,41.3424944,-89.706244,,,,greenriver-station.xlsx
+USGS-IL_EPA-PBJAAZA-02,U-TRIB LAWSON CREEK,41.340625,-89.782094,,,,greenriver-station.xlsx
+USGS-IL_EPA-PBJZ-B-A1,BUDA CREEK,41.332503,-89.680559,,,,greenriver-station.xlsx
+USGS-IL_EPA-PBJZ-B-C1,BUDA CREEK,41.335281,-89.685005,,,,greenriver-station.xlsx
+USGS-IL_EPA-PBK-10,MAIN UNION SP DITCH,41.50239,-89.97821,,,,greenriver-station.xlsx
+USGS-IL_EPA-PBL-01,CENTRAL SP DITCH,41.499444,-89.919722,,,,greenriver-station.xlsx
+USGS-IL_EPA-PBLA-01,WILDCAT DITCH,41.4966667,-89.906666,,,,greenriver-station.xlsx
+USGS-IL_EPA-PBM-11,FAIRFIELD DITCH,41.51136,-89.85711,,,,greenriver-station.xlsx
+USGS-IL_EPA-PBO-10,FAIRFLD UNION SP D,41.50333,-89.80081,,,,greenriver-station.xlsx
+USGS-IL_EPA-PBP-01,WALNUT SP DITCH,41.52412,-89.67625,,,,greenriver-station.xlsx
+USGS-IL_EPA-PBQ-01,WALNUT CREEK,41.54685,-89.5695,,,,greenriver-station.xlsx
+USGS-IL_EPA-PBQ-02,WALNUT CREEK,41.5516667,-89.596666,,,,greenriver-station.xlsx
+USGS-IL_EPA-PBQ-03,WALNUT CREEK,41.5527778,-89.601666,,,,greenriver-station.xlsx
+USGS-IL_EPA-PBQ-04,WALNUT CREEK,41.5483333,-89.530833,,,,greenriver-station.xlsx
+USGS-IL_EPA-PBQ-12,WALNUT CREEK,41.55669,-89.61813,,,,greenriver-station.xlsx
+USGS-IL_EPA-PBS-01,WINNEBAGO DITCH,41.62805,-89.68717,,,,greenriver-station.xlsx
+USGS-IL_EPA-PBS-02,WINNEBAGO DITCH,41.5843056,-89.708333,,,,greenriver-station.xlsx
+USGS-IL_EPA-PBU-01,WILLOW CREEK,41.7666667,-89.103055,,,,greenriver-station.xlsx
+USGS-IL_EPA-PBU-10,WILLOW CREEK,41.7654,-89.16838,,,,greenriver-station.xlsx
+USGS-IL_EPA-PBV-A-D1,WOODHAVEN TRIBUTARY,41.698337,-89.34167,,,,greenriver-station.xlsx
+USGS-IL_EPA-PBV-WL-C2,WOODHAVEN TRIBUTARY,41.660003,-89.295004,,,,greenriver-station.xlsx
+USGS-IL_EPA-PBV-WL-C3,WOODHAVEN TRIBUTARY,41.660003,-89.295004,,,,greenriver-station.xlsx
+USGS-IL_EPA-PBV-WL-C4,WOODHAVEN TRIBUTARY,41.660003,-89.295004,,,,greenriver-station.xlsx
+USGS-IL_EPA-PBV-WL-C5,WOODHAVEN TRIBUTARY,41.660003,-89.295004,,,,greenriver-station.xlsx
+USGS-IL_EPA-PBV-WL-D1,WOODHAVEN TRIBUTARY,41.660003,-89.295004,,,,greenriver-station.xlsx
+USGS-IL_EPA-PBVA-WL-A1,WOODHVN-UNAM TRIB A,41.660003,-89.295004,,,,greenriver-station.xlsx
+USGS-IL_EPA-PBVA-WL-C1,WOODHVN-UNAM TRIB A,41.660003,-89.295004,,,,greenriver-station.xlsx
+USGS-IL_EPA-PBVA-WL-E,WOODHVN-UNAM TRIB A,41.660003,-89.295004,,,,greenriver-station.xlsx
+USGS-IL_EPA-PBVB-WL-D2,WOODHVN-UNAM TRIB B,41.660003,-89.295004,,,,greenriver-station.xlsx
+USGS-IL_EPA-PZX-01,HENNEPIN CANAL-ROCK,41.4469,-90.0105,,,,greenriver-station.xlsx
+USGS-IL_EPA-PZXA-01,U-TRIB HENNEPIN CANAL,41.56912,-89.76725,,,,greenriver-station.xlsx
+USGS-IL_EPA_WQX-DQZA-01,DQZA-01,41.5694444,-89.7675,,,,greenriver-station.xlsx
+USGS-IL_EPA_WQX-DQZA-03,DQZA-03,41.4383333,-89.79,,,,greenriver-station.xlsx
+USGS-IL_EPA_WQX-PB-01,Green River,41.4641,-90.35759,,,,greenriver-station.xlsx
+USGS-IL_EPA_WQX-PB-02,Green River,41.59464,-89.68918,,,,greenriver-station.xlsx
+USGS-IL_EPA_WQX-PB-03,Green River,41.47433,-90.01052,,,,greenriver-station.xlsx
+USGS-IL_EPA_WQX-PB-04,Green River,41.48879,-90.15789,,,,greenriver-station.xlsx
+USGS-IL_EPA_WQX-PB-05,Green River,41.78347,-89.16843,,,,greenriver-station.xlsx
+USGS-IL_EPA_WQX-PB-06,Green River,41.63762,-89.55497,,,,greenriver-station.xlsx
+USGS-IL_EPA_WQX-PB-07,Green River,41.66432,-89.49758,,,,greenriver-station.xlsx
+USGS-IL_EPA_WQX-PB-08,Green River,41.48383,-89.82933,,,,greenriver-station.xlsx
+USGS-IL_EPA_WQX-PB-09,Green River,41.47778,-90.32097,,,,greenriver-station.xlsx
+USGS-IL_EPA_WQX-PB-10,Green River,41.71659,-89.30536,,,,greenriver-station.xlsx
+USGS-IL_EPA_WQX-PB-14,Green River,41.7242,-89.26594,,,,greenriver-station.xlsx
+USGS-IL_EPA_WQX-PB-15,Green River,41.71003,-89.32486,,,,greenriver-station.xlsx
+USGS-IL_EPA_WQX-PB-19,Green River,41.67695,-89.4398,,,,greenriver-station.xlsx
+USGS-IL_EPA_WQX-PB-20,Green River,41.46936,-90.38651,,,,greenriver-station.xlsx
+USGS-IL_EPA_WQX-PB-21,Green River,41.47819,-90.26025,,,,greenriver-station.xlsx
+USGS-IL_EPA_WQX-PB-28,Green River,41.47251,-90.05787,,,,greenriver-station.xlsx
+USGS-IL_EPA_WQX-PB-29,Green River,41.6891667,-89.3602778,,,,greenriver-station.xlsx
+USGS-IL_EPA_WQX-PB-A-A1,Green River,41.6972,-89.3422,,,,greenriver-station.xlsx
+USGS-IL_EPA_WQX-PB-A-C1,Green River,41.698,-89.3459,,,,greenriver-station.xlsx
+USGS-IL_EPA_WQX-PB-A-C2,Green River,41.6888,-89.3601,,,,greenriver-station.xlsx
+USGS-IL_EPA_WQX-PB-A-C3,Green River,41.6913,-89.3727,,,,greenriver-station.xlsx
+USGS-IL_EPA_WQX-PB-A-C4,Green River,41.6833,-89.4158,,,,greenriver-station.xlsx
+USGS-IL_EPA_WQX-PB-GN-A1,Green River,41.4887,-90.158,,,,greenriver-station.xlsx
+USGS-IL_EPA_WQX-PB-GN-C2,Green River,41.4821,-90.2021,,,,greenriver-station.xlsx
+USGS-IL_EPA_WQX-PBA-OR-A1,Mosquito Creek,41.3569,-90.3824,,,,greenriver-station.xlsx
+USGS-IL_EPA_WQX-PBA-OR-C1,Mosquito Creek,41.3591,-90.3809,,,,greenriver-station.xlsx
+USGS-IL_EPA_WQX-PBA-OR-C1a,Mosquito Creek,41.3684,-90.3756,,,,greenriver-station.xlsx
+USGS-IL_EPA_WQX-PBA-OR-C2,Mosquito Creek,41.376,-90.3702,,,,greenriver-station.xlsx
+USGS-IL_EPA_WQX-PBA-OR-C3,Mosquito Creek,41.41,-90.3758,,,,greenriver-station.xlsx
+USGS-IL_EPA_WQX-PBC-10,Mud Creek,41.4263889,-90.3237778,,,,greenriver-station.xlsx
+USGS-IL_EPA_WQX-PBD-01,Mineral Creek,41.4613333,-90.3193056,,,,greenriver-station.xlsx
+USGS-IL_EPA_WQX-PBD-02,Mineral Creek,41.45463,-90.29559,,,,greenriver-station.xlsx
+USGS-IL_EPA_WQX-PBD-10,Mineral Creek,41.4639444,-90.3387778,,,,greenriver-station.xlsx
+USGS-IL_EPA_WQX-PBD-11,Mineral Creek,41.4403333,-90.2736111,,,,greenriver-station.xlsx
+USGS-IL_EPA_WQX-PBE-01,Geneseo Creek,41.4477,-90.16314,,,,greenriver-station.xlsx
+USGS-IL_EPA_WQX-PBE-02,Geneseo Creek,41.43787,-90.15576,,,,greenriver-station.xlsx
+USGS-IL_EPA_WQX-PBE-10,Geneseo Creek,41.4809722,-90.1811111,,,,greenriver-station.xlsx
+USGS-IL_EPA_WQX-PBE-11,Geneseo Creek,41.4683889,-90.1758333,,,,greenriver-station.xlsx
+USGS-IL_EPA_WQX-PBE-12,Geneseo Creek,41.4605556,-90.1670833,,,,greenriver-station.xlsx
+USGS-IL_EPA_WQX-PBE-13,Geneseo Creek,41.4561667,-90.16875,,,,greenriver-station.xlsx
+USGS-IL_EPA_WQX-PBE-14,Geneseo Creek,41.425,-90.1822222,,,,greenriver-station.xlsx
+USGS-IL_EPA_WQX-PBE-GN-D1,Geneseo Creek,41.4548,-90.1703,,,,greenriver-station.xlsx
+USGS-IL_EPA_WQX-PBE-GN-D2,Geneseo Creek,41.4602,-90.1673,,,,greenriver-station.xlsx
+USGS-IL_EPA_WQX-PBG-01,Big Slough Drainage Ditch,41.4966667,-90.1091667,,,,greenriver-station.xlsx
+USGS-IL_EPA_WQX-PBG-10,Big Slough Drainage Ditch,41.49312,-90.13328,,,,greenriver-station.xlsx
+USGS-IL_EPA_WQX-PBG-11,Big Slough Drainage Ditch,41.5541667,-90.0358333,,,,greenriver-station.xlsx
+USGS-IL_EPA_WQX-PBG-12,Big Slough Drainage Ditch,41.51209,-90.08642,,,,greenriver-station.xlsx
+USGS-IL_EPA_WQX-PBH-10,Blue Joint Drainage Ditch,41.48,-90.1091667,,,,greenriver-station.xlsx
+USGS-IL_EPA_WQX-PBI-01,Spring Creek,41.41917,-90.08805,,,,greenriver-station.xlsx
+USGS-IL_EPA_WQX-PBI-02,Spring Creek,41.43684,-90.06785,,,,greenriver-station.xlsx
+USGS-IL_EPA_WQX-PBI-03,Spring Creek,41.45714,-90.06052,,,,greenriver-station.xlsx
+USGS-IL_EPA_WQX-PBI-04,Spring Creek,41.39613,-90.08,,,,greenriver-station.xlsx
+USGS-IL_EPA_WQX-PBI-05,Spring Creek,41.4464,-90.0609,,,,greenriver-station.xlsx
+USGS-IL_EPA_WQX-PBI-12,Spring Creek,41.3538333,-90.1148611,,,,greenriver-station.xlsx
+USGS-IL_EPA_WQX-PBI-13,Spring Creek,41.3405556,-90.145,,,,greenriver-station.xlsx
+USGS-IL_EPA_WQX-PBIZ-10,U-trib Spring Creek,41.3452778,-90.145,,,,greenriver-station.xlsx
+USGS-IL_EPA_WQX-PBJ-01,Mud Creek,41.400609,-89.920283,,,,greenriver-station.xlsx
+USGS-IL_EPA_WQX-PBJ-02,Mud Creek,41.30482,-89.9618,,,,greenriver-station.xlsx
+USGS-IL_EPA_WQX-PBJ-03,Mud Creek,41.38605,-89.95312,,,,greenriver-station.xlsx
+USGS-IL_EPA_WQX-PBJ-04,Mud Creek,41.45595,-89.97208,,,,greenriver-station.xlsx
+USGS-IL_EPA_WQX-PBJ-05,Mud Creek,41.3102778,-89.9733333,,,,greenriver-station.xlsx
+USGS-IL_EPA_WQX-PBJ-06,Mud Creek,41.4333333,-89.9480556,,,,greenriver-station.xlsx
+USGS-IL_EPA_WQX-PBJ-07,Mud Creek,41.3641667,-89.9866667,,,,greenriver-station.xlsx
+USGS-IL_EPA_WQX-PBJA-01,Coal Creek,41.38625,-89.7994444,,,,greenriver-station.xlsx
+USGS-IL_EPA_WQX-PBJA-02,Coal Creek,41.38676,-89.78433,,,,greenriver-station.xlsx
+USGS-IL_EPA_WQX-PBJA-03,Coal Creek,41.43303,-89.92014,,,,greenriver-station.xlsx
+USGS-IL_EPA_WQX-PBJA-04,Coal Creek,41.41525,-89.84825,,,,greenriver-station.xlsx
+USGS-IL_EPA_WQX-PBJA-05,Coal Creek,41.34147,-89.73178,,,,greenriver-station.xlsx
+USGS-IL_EPA_WQX-PBJA-S-A1,Coal Creek,41.3619,-89.7465,,,,greenriver-station.xlsx
+USGS-IL_EPA_WQX-PBJA-S-C1,Coal Creek,41.3633,-89.7476,,,,greenriver-station.xlsx
+USGS-IL_EPA_WQX-PBJA-S-C2,Coal Creek,41.365,-89.7514,,,,greenriver-station.xlsx
+USGS-IL_EPA_WQX-PBJA-S-C3,Coal Creek,41.3867,-89.7846,,,,greenriver-station.xlsx
+USGS-IL_EPA_WQX-PBJAAZA-01,U-trib Lawson Creek,41.3415,-89.789578,,,,greenriver-station.xlsx
+USGS-IL_EPA_WQX-PBJAAZA-02,U-trib Lawson Creek,41.340625,-89.7820944,,,,greenriver-station.xlsx
+USGS-IL_EPA_WQX-PBJZ-B-A1,Buda Creek,41.3324,-89.6794,,,,greenriver-station.xlsx
+USGS-IL_EPA_WQX-PBJZ-B-C1,Buda Creek,41.3352,-89.6844,,,,greenriver-station.xlsx
+USGS-IL_EPA_WQX-PBK-10,Main Union Special Ditch,41.50239,-89.97821,,,,greenriver-station.xlsx
+USGS-IL_EPA_WQX-PBL-01,Central Special Ditch,41.499444,-89.9197222,,,,greenriver-station.xlsx
+USGS-IL_EPA_WQX-PBL-02,Central Special Ditch,41.521667,-89.92222,,,,greenriver-station.xlsx
+USGS-IL_EPA_WQX-PBLA-01,Wildcat Ditch,41.49654,-89.90664,,,,greenriver-station.xlsx
+USGS-IL_EPA_WQX-PBM-02,Fairfield Ditch No 1,41.53325,-89.84712,,,,greenriver-station.xlsx
+USGS-IL_EPA_WQX-PBM-11,Fairfield Ditch No 1,41.51136,-89.85711,,,,greenriver-station.xlsx
+USGS-IL_EPA_WQX-PBN-01,Bureau County Ditch,41.46668,-89.82949,,,,greenriver-station.xlsx
+USGS-IL_EPA_WQX-PBO-01,Fairfield Union Special Ditch,41.4968,-89.81381,,,,greenriver-station.xlsx
+USGS-IL_EPA_WQX-PBO-02,Fairfield Union Special Ditch,41.5111,-89.79192,,,,greenriver-station.xlsx
+USGS-IL_EPA_WQX-PBO-10,Fairfield Union Special Ditch,41.50333,-89.80081,,,,greenriver-station.xlsx
+USGS-IL_EPA_WQX-PBP-01,Walnut Special Ditch,41.52412,-89.67625,,,,greenriver-station.xlsx
+USGS-IL_EPA_WQX-PBQ-01,Walnut Creek,41.54685,-89.5695,,,,greenriver-station.xlsx
+USGS-IL_EPA_WQX-PBQ-02,Walnut Creek,41.5516667,-89.5966667,,,,greenriver-station.xlsx
+USGS-IL_EPA_WQX-PBQ-03,Walnut Creek,41.5527778,-89.6016667,,,,greenriver-station.xlsx
+USGS-IL_EPA_WQX-PBQ-04,Walnut Creek,41.5483333,-89.5308333,,,,greenriver-station.xlsx
+USGS-IL_EPA_WQX-PBQ-12,Walnut Creek,41.55669,-89.61813,,,,greenriver-station.xlsx
+USGS-IL_EPA_WQX-PBQ-W-A1,Walnut Creek,41.5517,-89.5968,,,,greenriver-station.xlsx
+USGS-IL_EPA_WQX-PBQ-W-C1,Walnut Creek,41.5521,-89.6032,,,,greenriver-station.xlsx
+USGS-IL_EPA_WQX-PBQ-W-C2,Walnut Creek,41.5565,-89.6183,,,,greenriver-station.xlsx
+USGS-IL_EPA_WQX-PBQ-W-C3,Walnut Creek,41.5473,-89.6471,,,,greenriver-station.xlsx
+USGS-IL_EPA_WQX-PBR-01,Baker Creek Ditch,41.5616,-89.7045,,,,greenriver-station.xlsx
+USGS-IL_EPA_WQX-PBS-01,Winnebago Ditch,41.62805,-89.68717,,,,greenriver-station.xlsx
+USGS-IL_EPA_WQX-PBS-02,Winnebago Ditch,41.5843056,-89.7083333,,,,greenriver-station.xlsx
+USGS-IL_EPA_WQX-PBS-03,Winnebago Ditch,41.5993167,-89.7085167,,,,greenriver-station.xlsx
+USGS-IL_EPA_WQX-PBU-01,Willow Creek,41.7666667,-89.1030556,,,,greenriver-station.xlsx
+USGS-IL_EPA_WQX-PBU-10,Willow Creek,41.7654,-89.16838,,,,greenriver-station.xlsx
+USGS-IL_EPA_WQX-PBV-A-D1,Woodhaven tributary,41.6823,-89.3572,,,,greenriver-station.xlsx
+USGS-IL_EPA_WQX-PBV-WL-C2,Woodhaven tributary,41.6702,-89.3057,,,,greenriver-station.xlsx
+USGS-IL_EPA_WQX-PBV-WL-C3,Woodhaven tributary,41.6755,-89.3201,,,,greenriver-station.xlsx
+USGS-IL_EPA_WQX-PBV-WL-C4,Woodhaven tributary,41.6747,-89.3407,,,,greenriver-station.xlsx
+USGS-IL_EPA_WQX-PBV-WL-C5,Woodhaven tributary,41.6823,-89.3572,,,,greenriver-station.xlsx
+USGS-IL_EPA_WQX-PBV-WL-D1,Woodhaven tributary,41.6603,-89.2941,,,,greenriver-station.xlsx
+USGS-IL_EPA_WQX-PBVA-WL-A1,Woodhaven U-trib A,41.6593,-89.2949,,,,greenriver-station.xlsx
+USGS-IL_EPA_WQX-PBVA-WL-C1,Woodhaven U-trib A,41.6602,-89.295,,,,greenriver-station.xlsx
+USGS-IL_EPA_WQX-PBVB-WL-D2,Woodhaven U-trib B,41.6655,-89.3197,,,,greenriver-station.xlsx
+USGS-IL_EPA_WQX-PBZA-01,Fairfield Ditch No 3,41.46052,-90.03465,,,,greenriver-station.xlsx
+USGS-IL_EPA_WQX-PZX-01,Hennepin Canal,41.4469,-90.0105,,,,greenriver-station.xlsx
+USGS-IL_EPA_WQX-PZXA-01,Hennepin Feeder Canal,41.56912,-89.76725,,,,greenriver-station.xlsx
+USGS-IL_EPA_WQX-RPDA-T1,Johnson Sauk Trl-West Feed,41.319444,-89.891667,,,,greenriver-station.xlsx
+USGS-IL_EPA_WQX-RPDB-T1,Johnson Sauk Trl-Mid Feed,41.315833,-89.886111,,,,greenriver-station.xlsx
+USGS-IL_EPA_WQX-RPDC-T1,Johnson Sauk Trl-East Feed,41.3175,-89.882222,,,,greenriver-station.xlsx
+USGS-IL_EPA_WQX-RPDD-T1,Johnson Sauk Lk Drn,41.336111,-89.881111,,,,greenriver-station.xlsx
+USGS-IWLA-CWH509,Hennepin Canal,41.481937,-90.1544728,,,,greenriver-station.xlsx
+USGS-NARS-OWW04440-0312,Mosquito Creek,41.4,-90.37,,,,greenriver-station.xlsx
+USGS-NARSTEST-FW08IL011,Green River,41.484405,-89.835806,,,,greenriver-station.xlsx
+USGS-NARS_WQX-FW08IL011,Green River,41.48585196,-89.84847663,,,,greenriver-station.xlsx
+USGS-NARS_WQX-ILR9-0902,Green River,41.48585,-89.84848,,,,greenriver-station.xlsx
+USGS-NARS_WQX-NRS_IL-10182,NRS_IL-10182,41.41689148,-90.04931538,,,,greenriver-station.xlsx
+USGS-NARS_WQX-OWW04440-0312,MOSQUITO CREEK,41.4079,-90.378346,,,,greenriver-station.xlsx
+USGS-OST_SHPD-NRSA1314-ILR9-0902,Green River,41.48585,-89.84848,,,,greenriver-station.xlsx
+USGS-OST_SHPD_TEST-NRSA01314-ILR9-0902,Green River,41.48585,-89.84848,,,,greenriver-station.xlsx
+USGS-OST_SHPD_TEST-NRSA1314-ILR9-0902,Green River,41.48585,-89.84848,,,,greenriver-station.xlsx

@@ -1,0 +1,444 @@
+site_id,station_name,latitude,longitude,drainage_area,state,county,data_source
+USGS-03343170,"DRAINAGE DITCH AT DEVONSHIRE DR AT CHAMPAIGN, IL",40.0897222,-88.2522222,0.65,,,embarrass-station.xlsx
+USGS-03343200,"EMBARRAS RIVER TRIBUTARY AT CHAMPAIGN, IL",40.0858333,-88.2433333,,,,embarrass-station.xlsx
+USGS-03343350,"BLACK SLOUGH AT CR 500N NR PHILO, IL",39.9526111,-88.1692222,,,,embarrass-station.xlsx
+USGS-03343375,"EMBARRAS RIVER AT VILLA GROVE, IL",39.86503238,-88.1583763,164.0,,,embarrass-station.xlsx
+USGS-03343395,"EMBARRAS RIVER AT CAMARGO, IL",39.7997548,-88.1703207,180.0,,,embarrass-station.xlsx
+USGS-03343400,"EMBARRAS RIVER NEAR CAMARGO, IL",39.79163889,-88.1857778,186.0,,,embarrass-station.xlsx
+USGS-03343420,"EMBARRAS RIVER NEAR HUGO, IL",39.7530884,-88.1708758,192.0,,,embarrass-station.xlsx
+USGS-03343440,"EMBARRAS RIVER AT HUGO, IL",39.75253306,-88.1469858,305.0,,,embarrass-station.xlsx
+USGS-03343450,"BRUSHY FORK AT HUME, IL",39.80916667,-87.8672222,,,,embarrass-station.xlsx
+USGS-03343455,"BRUSHY FORK NEAR NEWMAN, IL",39.78531217,-87.9978125,108.0,,,embarrass-station.xlsx
+USGS-03343460,"BRUSHY FORK AT BRUSHY FORK, IL",39.73725606,-88.06948229,125.0,,,embarrass-station.xlsx
+USGS-03343470,"BRUSHY FORK TRIBUTARY AT BRUSHY FORK, IL",39.73947814,-88.0842052,19.5,,,embarrass-station.xlsx
+USGS-03343490,"EMBARRAS RIVER NEAR HINDSBORO, IL",39.6967008,-88.0586484,514.0,,,embarrass-station.xlsx
+USGS-03343500,"EMBARRAS RIVER NEAR OAKLAND, IL",39.68058994,-88.0403143,518.0,,,embarrass-station.xlsx
+USGS-03343550,"EMBARRAS RIVER AT STATE HWY 133 NR OAKLAND, IL",39.65920099,-88.0633708,542.0,,,embarrass-station.xlsx
+USGS-03343600,"DRAINAGE DITCH NO 7 NEAR REDMON, IL",39.6255903,-87.7944734,5.63,,,embarrass-station.xlsx
+USGS-03343620,"HICKORY GROVE CREEK AT REDMON, IL",39.64336815,-87.8814203,21.7,,,embarrass-station.xlsx
+USGS-03343650,"LITTLE EMBARRAS RIVER NEAR BORTON, IL",39.68059029,-87.9378108,63.3,,,embarrass-station.xlsx
+USGS-03343700,"EMBARRAS RIVER NEAR ASHMORE, IL",39.55475697,-88.0894828,720.0,,,embarrass-station.xlsx
+USGS-03343705,"EMBARRAS RIVER AT BARNEY FORD NR CHARLESTON, IL",39.5522569,-88.1014276,724.0,,,embarrass-station.xlsx
+USGS-03343710,"EMBARRAS RIVER ABOVE CHARLESTON, IL",39.5283681,-88.1130946,727.0,,,embarrass-station.xlsx
+USGS-03343725,"POLECAT CREEK NEAR CHARLESTON, IL",39.5042017,-88.0900382,29.5,,,embarrass-station.xlsx
+USGS-03343750,"WHETSTONE CREEK NEAR CHARLESTON, IL",39.4647576,-88.1053162,9.45,,,embarrass-station.xlsx
+USGS-03343800,"Kickapoo Creek at Mattoon, Ill",39.47305556,-88.3641667,,,,embarrass-station.xlsx
+USGS-03343805,"KICKAPOO CREEK NEAR MATTOON, IL",39.46527778,-88.33638889,9.0,,,embarrass-station.xlsx
+USGS-03343810,"KICKAPOO CR AT GOLF COURSE NEAR MATTOON, IL",39.47027778,-88.3227778,9.91,,,embarrass-station.xlsx
+USGS-03343815,"KICKAPOO CR AT 1200 E ROAD NEAR CHARLESTON, IL",39.46888889,-88.2480556,25.5,,,embarrass-station.xlsx
+USGS-03343820,"KICKAPOO CREEK AT 1320E ROAD NR CHARLESTON, IL",39.465,-88.2302778,27.7,,,embarrass-station.xlsx
+USGS-03343850,"KICKAPOO CREEK NEAR CHARLESTON, IL",39.4428132,-88.1722626,103.0,,,embarrass-station.xlsx
+USGS-03343900,"EMBARRAS RIVER BELOW CHARLESTON, IL",39.43503556,-88.1655957,892.0,,,embarrass-station.xlsx
+USGS-03343925,"EMBARRAS RIVER ABOVE FARMINGTON, IL",39.4225357,-88.1764293,894.0,,,embarrass-station.xlsx
+USGS-03343950,"EMBARRAS RIVER NEAR FARMINGTON, IL",39.40698038,-88.16754,909.0,,,embarrass-station.xlsx
+USGS-03343975,"EMBARRAS RIVER BELOW FARMINGTON, IL",39.3850362,-88.1747622,915.0,,,embarrass-station.xlsx
+USGS-03344000,"EMBARRAS RIVER NEAR DIONA, IL",39.34448124,-88.1708729,919.0,,,embarrass-station.xlsx
+USGS-03344200,"EMBARRAS RIVER NEAR GREENUP, IL",39.23614956,-88.1864282,1022.0,,,embarrass-station.xlsx
+USGS-03344250,"EMBARRAS RIVER TRIBUTARY NEAR GREENUP, IL",39.2333717,-88.1555939,0.08,,,embarrass-station.xlsx
+USGS-03344350,"MUDDY CREEK NEAR TOLEDO, IL",39.27309365,-88.2861536,58.0,,,embarrass-station.xlsx
+USGS-03344425,"MUDDY CREEK TRIBUTARY AT WOODBURY, IL",39.19948398,-88.2939314,0.07,,,embarrass-station.xlsx
+USGS-03344435,"ISLAND CREEK NEAR WOODBURY, IL",39.1797222,-88.2783333,,,,embarrass-station.xlsx
+USGS-03344450,"EMBARRAS RIVER NEAR HIDALGO, IL",39.15698458,-88.2069844,1252.0,,,embarrass-station.xlsx
+USGS-03344500,"RANGE CREEK NEAR CASEY, IL",39.3267035,-88.0294796,7.61,,,embarrass-station.xlsx
+USGS-03344600,"EMBARRAS RIVER NEAR ROSE HILL, IL",39.10920778,-88.2083734,1327.0,,,embarrass-station.xlsx
+USGS-03344680,"EMBARRAS RIVER NEAR FALMOUTH, IL",39.05198659,-88.181706,1365.0,,,embarrass-station.xlsx
+USGS-03345000,"EMBARRAS RIVER AT NEWTON, IL",38.9961542,-88.1453161,1390.0,,,embarrass-station.xlsx
+USGS-03345500,"EMBARRAS RIVER AT STE. MARIE, IL",38.93669444,-88.0223333,1516.0,,,embarrass-station.xlsx
+USGS-03345800,"NORTH FORK EMBARRAS RIVER AT MORIAH, IL",39.2150382,-87.9300323,149.0,,,embarrass-station.xlsx
+USGS-03346000,"NORTH FORK EMBARRAS RIVER NEAR OBLONG, IL",39.01027778,-87.9455556,318.0,,,embarrass-station.xlsx
+USGS-03346100,"EMBARRAS RIVER NEAR LANDES, IL",38.8717116,-87.9083655,1944.0,,,embarrass-station.xlsx
+USGS-03346150,"BIG CREEK NEAR OBLONG, IL",39.0033756,-87.8411408,35.0,,,embarrass-station.xlsx
+USGS-03346180,"DOGWOOD CREEK AT OBLONG, IL",39.00198677,-87.89392,11.7,,,embarrass-station.xlsx
+USGS-03346500,"EMBARRAS RIVER AT LAWRENCEVILLE, IL",38.72380556,-87.6643611,2333.0,,,embarrass-station.xlsx
+USGS-03346550,"EMBARRAS RIVER NEAR BILLETT, IL",38.6650471,-87.6264133,2403.0,,,embarrass-station.xlsx
+USGS-384224087353601,"ALLISON DITCH NEAR VINCENNES, IN",38.71777778,-87.5943611,,,,embarrass-station.xlsx
+USGS-ILRIVERWATCH-R0800101,Embarras R,40.0816,-88.23841,,,,embarrass-station.xlsx
+USGS-ILRIVERWATCH-R0800102,Embarras R,39.5952,-88.1882,,,,embarrass-station.xlsx
+USGS-ILRIVERWATCH-R0800201,ALLISON D #1,38.687942,-87.597309,,,,embarrass-station.xlsx
+USGS-ILRIVERWATCH-R0800301,ALLISON D #2,38.678831,-87.589389,,,,embarrass-station.xlsx
+USGS-ILRIVERWATCH-R0801201,Big Cr,39.10069,-87.80573,,,,embarrass-station.xlsx
+USGS-ILRIVERWATCH-R0801801,Calfkiller Cr,38.82705,-87.99381,,,,embarrass-station.xlsx
+USGS-ILRIVERWATCH-R0802001,N Fk Embarras R,39.3292,-87.8958,,,,embarrass-station.xlsx
+USGS-ILRIVERWATCH-R0802002,N Fk Embarras R,39.36741,-87.90493,,,,embarrass-station.xlsx
+USGS-ILRIVERWATCH-R0802003,N Fk Embarras R,39.4298,-87.9335,,,,embarrass-station.xlsx
+USGS-ILRIVERWATCH-R0802004,N Fk Embarras R,39.3944,-87.903,,,,embarrass-station.xlsx
+USGS-ILRIVERWATCH-R0802005,N Fk Embarras R,39.41608,-87.90654,,,,embarrass-station.xlsx
+USGS-ILRIVERWATCH-R0802006,N Fk Embarras R,39.41608,-87.90654,,,,embarrass-station.xlsx
+USGS-ILRIVERWATCH-R0802503,Riley Cr,39.51129,-88.32702,,,,embarrass-station.xlsx
+USGS-ILRIVERWATCH-R0803501,Mint Cr,39.05521,-88.23341,,,,embarrass-station.xlsx
+USGS-ILRIVERWATCH-R0803701,Range Cr,39.17142,-88.18198,,,,embarrass-station.xlsx
+USGS-ILRIVERWATCH-R0804401,Bear Cr Trib,39.31264,-88.32047,,,,embarrass-station.xlsx
+USGS-ILRIVERWATCH-R0804701,Hurricane Cr,39.33278,-88.12036,,,,embarrass-station.xlsx
+USGS-ILRIVERWATCH-R0804702,HURRICANE CR,39.30736,-88.13925,,,,embarrass-station.xlsx
+USGS-ILRIVERWATCH-R0804703,Hurricane Cr,39.30728,-88.13917,,,,embarrass-station.xlsx
+USGS-ILRIVERWATCH-R0804704,Hurricane Cr,39.30766,-88.13923,,,,embarrass-station.xlsx
+USGS-ILRIVERWATCH-R0804801,W Br Hurricane Cr,39.3951,-88.0834,,,,embarrass-station.xlsx
+USGS-ILRIVERWATCH-R0804901,E Br Hurricane Cr,39.39168,-88.05692,,,,embarrass-station.xlsx
+USGS-ILRIVERWATCH-R0805001,Indian Cr,39.41486,-88.18423,,,,embarrass-station.xlsx
+USGS-ILRIVERWATCH-R0805101,Kickapoo Cr,39.4734,-88.36427,,,,embarrass-station.xlsx
+USGS-ILRIVERWATCH-R0805102,Kickapoo Cr,39.44315,-88.17299,,,,embarrass-station.xlsx
+USGS-ILRIVERWATCH-R0805103,Kickapoo Cr,39.46729,-88.21929,,,,embarrass-station.xlsx
+USGS-ILRIVERWATCH-R0805104,Kickapoo Cr,39.44315,-88.17299,,,,embarrass-station.xlsx
+USGS-ILRIVERWATCH-R0805105,Kickapoo Cr,39.46961,-88.32132,,,,embarrass-station.xlsx
+USGS-ILRIVERWATCH-R0805106,Kickapoo Cr,39.46521,-88.23028,,,,embarrass-station.xlsx
+USGS-ILRIVERWATCH-R0805202,Riley Cr,39.49073,-88.22385,,,,embarrass-station.xlsx
+USGS-ILRIVERWATCH-R0805401,Whetstone Cr,39.46894,-88.08217,,,,embarrass-station.xlsx
+USGS-ILRIVERWATCH-R0805501,Polecat Cr,39.50561,-88.07247,,,,embarrass-station.xlsx
+USGS-ILRIVERWATCH-R0805502,Polecat Cr,39.51971,-88.02658,,,,embarrass-station.xlsx
+USGS-ILRIVERWATCH-R0805503,Polecat Cr,39.51987,-88.02673,,,,embarrass-station.xlsx
+USGS-ILRIVERWATCH-R0805504,Polecat Cr,39.53267,-87.98143,,,,embarrass-station.xlsx
+USGS-ILRIVERWATCH-R0806401,Brushy Fk Cr,39.78524,-87.99738,,,,embarrass-station.xlsx
+USGS-ILRIVERWATCH-R0806402,Brushy Fk Cr,39.73711,-88.06962,,,,embarrass-station.xlsx
+USGS-ILRIVERWATCH-R0806403,Brushy Fk Cr,39.80914,-87.88025,,,,embarrass-station.xlsx
+USGS-ILRIVERWATCH-R0806404,Brushy Fk Cr,38.8007,-87.68463,,,,embarrass-station.xlsx
+USGS-ILRIVERWATCH-R0806801,Scattering Fk,39.7854,-88.2716,,,,embarrass-station.xlsx
+USGS-ILRIVERWATCH-R0807201,Jordan Slough,39.8747,-88.1515,,,,embarrass-station.xlsx
+USGS-ILRIVERWATCH-R0815601,Meadow Brook,40.0808,-88.2047,,,,embarrass-station.xlsx
+USGS-ILRIVERWATCH-R0815701,Catfish Cr,39.65807,-87.87238,,,,embarrass-station.xlsx
+USGS-ILRIVERWATCH-R0816101,Muddy Cr Trib,39.36347,-88.29576,,,,embarrass-station.xlsx
+USGS-ILRIVERWATCH-R0816201,Embarras R Trib,39.36059,-88.19462,,,,embarrass-station.xlsx
+USGS-ILRIVERWATCH-R0816301,S Fk Indian Cr,39.418,-88.28145,,,,embarrass-station.xlsx
+USGS-ILRIVERWATCH-R0816401,N Fk Indian Cr,39.41875,-88.20956,,,,embarrass-station.xlsx
+USGS-ILRIVERWATCH-R0816601,Unnamed Cassel Cr Trib at Charleston,39.493593,-88.180556,,,,embarrass-station.xlsx
+USGS-ILRIVERWATCH-R0816602,Unnamed Cassel Creek Trib south of Reginal Office of Education,39.493001,-88.174655,,,,embarrass-station.xlsx
+USGS-ILRIVERWATCH-R0817701,Unnamed Embarras R Trib,39.033058,-88.126806,,,,embarrass-station.xlsx
+USGS-IL_EPA-BE-01,EMBARRAS RIVER,38.66493,-87.62639,,,,embarrass-station.xlsx
+USGS-IL_EPA-BE-02,EMBARRAS RIVER,38.83479,-87.75709,,,,embarrass-station.xlsx
+USGS-IL_EPA-BE-03,EMBARRAS RIVER,38.73283,-87.68631,,,,embarrass-station.xlsx
+USGS-IL_EPA-BE-04,EMBARRAS RIVER,38.99599,-88.14544,,,,embarrass-station.xlsx
+USGS-IL_EPA-BE-05,EMBARRAS RIVER,39.48915,-88.11321,,,,embarrass-station.xlsx
+USGS-IL_EPA-BE-06,EMBARRAS RIVER,39.51027,-88.11223,,,,embarrass-station.xlsx
+USGS-IL_EPA-BE-07,EMBARRAS RIVER,38.937,-88.02219,,,,embarrass-station.xlsx
+USGS-IL_EPA-BE-08,EMBARRAS RIVER,39.15618,-88.20768,,,,embarrass-station.xlsx
+USGS-IL_EPA-BE-09,EMBARRAS RIVER,39.34419,-88.17068,,,,embarrass-station.xlsx
+USGS-IL_EPA-BE-10,EMBARRAS RIVER,39.65905,-88.06316,,,,embarrass-station.xlsx
+USGS-IL_EPA-BE-11,EMBARRAS RIVER,39.86673,-88.16042,,,,embarrass-station.xlsx
+USGS-IL_EPA-BE-12,EMBARRAS RIVER,38.84597,-87.94994,,,,embarrass-station.xlsx
+USGS-IL_EPA-BE-13,EMBARRAS RIVER,39.10788,-88.20941,,,,embarrass-station.xlsx
+USGS-IL_EPA-BE-14,EMBARRAS RIVER,39.79973,-88.17041,,,,embarrass-station.xlsx
+USGS-IL_EPA-BE-15,EMBARRAS RIVER,39.25087,-88.1734,,,,embarrass-station.xlsx
+USGS-IL_EPA-BE-17,EMBARRAS RIVER,39.55499,-88.08938,,,,embarrass-station.xlsx
+USGS-IL_EPA-BE-19,EMBARRAS RIVER,39.75318,-88.17131,,,,embarrass-station.xlsx
+USGS-IL_EPA-BE-20,EMBARRAS RIVER,39.90872,-88.19133,,,,embarrass-station.xlsx
+USGS-IL_EPA-BE-21,EMBARRAS RIVER,39.99587,-88.20835,,,,embarrass-station.xlsx
+USGS-IL_EPA-BE-23,EMBARRAS RIVER,39.6813556,-88.040491,,,,embarrass-station.xlsx
+USGS-IL_EPA-BE-24,EMBARRAS RIVER,38.7180556,-87.669166,,,,embarrass-station.xlsx
+USGS-IL_EPA-BE-25,EMBARRAS RIVER,39.9363889,-88.191111,,,,embarrass-station.xlsx
+USGS-IL_EPA-BE-26,EMBARRAS RIVER,39.6916667,-88.035833,,,,embarrass-station.xlsx
+USGS-IL_EPA-BE-27,EMBARRAS RIVER,39.6813889,-88.040555,,,,embarrass-station.xlsx
+USGS-IL_EPA-BE-29,EMBARRAS RIVER,39.4405556,-88.157222,,,,embarrass-station.xlsx
+USGS-IL_EPA-BE-30,EMBARRAS RIVER,39.4202778,-88.1775,,,,embarrass-station.xlsx
+USGS-IL_EPA-BE-31,EMBARRAS RIVER,39.2375,-88.186111,,,,embarrass-station.xlsx
+USGS-IL_EPA-BE-32,EMBARRAS RIVER,38.8711111,-87.907777,,,,embarrass-station.xlsx
+USGS-IL_EPA-BE-33,EMBARRAS RIVER,38.7241667,-87.665277,,,,embarrass-station.xlsx
+USGS-IL_EPA-BE-34,EMBARRAS RIVER,38.7286111,-87.664722,,,,embarrass-station.xlsx
+USGS-IL_EPA-BE-35,EMBARRAS RIVER,38.9944444,-88.156388,,,,embarrass-station.xlsx
+USGS-IL_EPA-BE-36,EMBARRAS RIVER,39.0530556,-88.180833,,,,embarrass-station.xlsx
+USGS-IL_EPA-BE-96,EMBARRAS RIVER,39.45714,-88.14699,,,,embarrass-station.xlsx
+USGS-IL_EPA-BE-97,EMBARRAS RIVER,38.74917,-87.70921,,,,embarrass-station.xlsx
+USGS-IL_EPA-BE-98,EMBARRAS RIVER,39.83207,-88.16019,,,,embarrass-station.xlsx
+USGS-IL_EPA-BE-99,EMBARRAS RIVER,38.99596,-88.16306,,,,embarrass-station.xlsx
+USGS-IL_EPA-BEA-01,MUDDY CREEK-SOUTH,38.77038,-87.75994,,,,embarrass-station.xlsx
+USGS-IL_EPA-BEA-SU-C2,MUDDY CREEK-SOUTH,38.7224,-87.8554,,,,embarrass-station.xlsx
+USGS-IL_EPA-BEA-SU-C3,MUDDY CREEK-SOUTH,38.7318,-87.8592,,,,embarrass-station.xlsx
+USGS-IL_EPA-BEA-SU-C4,MUDDY CREEK-SOUTH,38.7474,-87.8526,,,,embarrass-station.xlsx
+USGS-IL_EPA-BEAA-01,THE SLOUGH,38.7895,-87.81059,,,,embarrass-station.xlsx
+USGS-IL_EPA-BEAB-01,PAUL CREEK,38.76931,-87.86595,,,,embarrass-station.xlsx
+USGS-IL_EPA-BEAC-SU-C1,SHIRLEY CREEK,38.7206,-87.8566,,,,embarrass-station.xlsx
+USGS-IL_EPA-BEAC-SU-E1,SHIRLEY CREEK,38.7193,-87.8623,,,,embarrass-station.xlsx
+USGS-IL_EPA-BEB-01,BRUSHY CREEK,38.79093,-87.70316,,,,embarrass-station.xlsx
+USGS-IL_EPA-BEB-02,BRUSHY CREEK,38.88222,-87.66126,,,,embarrass-station.xlsx
+USGS-IL_EPA-BEB-03,BRUSHY CREEK,38.7983333,-87.6875,,,,embarrass-station.xlsx
+USGS-IL_EPA-BEB-04,BRUSHY CREEK,38.7972222,-87.688611,,,,embarrass-station.xlsx
+USGS-IL_EPA-BEBB-01,SUGAR CREEK-SOUTH,38.8664444,-87.684861,,,,embarrass-station.xlsx
+USGS-IL_EPA-BEBZ-11,U-TRIB SW FLATROCK,38.897,-87.670833,,,,embarrass-station.xlsx
+USGS-IL_EPA-BEBZ-12,U-TRIB SW FLATROCK,38.9038889,-87.684583,,,,embarrass-station.xlsx
+USGS-IL_EPA-BEC-01,HONEY CREEK,38.9016667,-87.806666,,,,embarrass-station.xlsx
+USGS-IL_EPA-BED-01,BIG CREEK,38.91621,-87.88361,,,,embarrass-station.xlsx
+USGS-IL_EPA-BED-02,BIG CREEK,38.9452778,-87.881388,,,,embarrass-station.xlsx
+USGS-IL_EPA-BED-03,BIG CREEK,39.0491667,-87.826111,,,,embarrass-station.xlsx
+USGS-IL_EPA-BED-04,BIG CREEK,38.9308389,-87.881919,,,,embarrass-station.xlsx
+USGS-IL_EPA-BEDA-01,LITTLE CREEK,38.93674,-87.87029,,,,embarrass-station.xlsx
+USGS-IL_EPA-BEDB-01,DOGWOOD CREEK,38.97495,-87.8803,,,,embarrass-station.xlsx
+USGS-IL_EPA-BEE-01,CALF KILLER CREEK,38.83321,-87.96496,,,,embarrass-station.xlsx
+USGS-IL_EPA-BEF-01,N FK EMBARRAS RIVER,38.92381,-87.98698,,,,embarrass-station.xlsx
+USGS-IL_EPA-BEF-02,N FK EMBARRAS RIVER,39.26453,-87.90773,,,,embarrass-station.xlsx
+USGS-IL_EPA-BEF-03,N FK EMBARRAS RIVER,39.01023,-87.9466,,,,embarrass-station.xlsx
+USGS-IL_EPA-BEF-04,N FK EMBARRAS RIVER,39.14417,-87.95401,,,,embarrass-station.xlsx
+USGS-IL_EPA-BEF-05,N FK EMBARRAS RIVER,39.00017,-87.9448,,,,embarrass-station.xlsx
+USGS-IL_EPA-BEF-06,N FK EMBARRAS RIVER,39.1144444,-87.975555,,,,embarrass-station.xlsx
+USGS-IL_EPA-BEF-07,N FK EMBARRAS RIVER,38.9602778,-87.981388,,,,embarrass-station.xlsx
+USGS-IL_EPA-BEF-08,N FK EMBARRAS RIVER,39.3513889,-87.902777,,,,embarrass-station.xlsx
+USGS-IL_EPA-BEF-09,N FK EMBARRAS RIVER,39.4569444,-87.9475,,,,embarrass-station.xlsx
+USGS-IL_EPA-BEF-10,N FK EMBARRAS RIVER,39.3388889,-87.897777,,,,embarrass-station.xlsx
+USGS-IL_EPA-BEF-11,N FK EMBARRAS RIVER,39.35,-87.901944,,,,embarrass-station.xlsx
+USGS-IL_EPA-BEF-12,N FK EMBARRAS RIVER,39.1638889,-87.943055,,,,embarrass-station.xlsx
+USGS-IL_EPA-BEF-13,N FK EMBARRAS RIVER,39.2391667,-87.928333,,,,embarrass-station.xlsx
+USGS-IL_EPA-BEF-14,N FK EMBARRAS RIVER,39.1141667,-87.975277,,,,embarrass-station.xlsx
+USGS-IL_EPA-BEF-15,N FK EMBARRAS RIVER,38.9602778,-87.981388,,,,embarrass-station.xlsx
+USGS-IL_EPA-BEF-16,N FK EMBARRAS RIVER,39.2148611,-87.931388,,,,embarrass-station.xlsx
+USGS-IL_EPA-BEFA-01,WILLOW CREEK,39.26112,-87.87819,,,,embarrass-station.xlsx
+USGS-IL_EPA-BEFA-02,WILLOW CREEK,39.03174,-87.93625,,,,embarrass-station.xlsx
+USGS-IL_EPA-BEFA-03,WILLOW CREEK,39.145,-87.903333,,,,embarrass-station.xlsx
+USGS-IL_EPA-BEFAA-01,LITTLE WILLOW,39.2619444,-87.878055,,,,embarrass-station.xlsx
+USGS-IL_EPA-BEFAB-01,MUDDY CREEK,39.06455,-87.9101,,,,embarrass-station.xlsx
+USGS-IL_EPA-BEFAB-02,MUDDY CREEK,39.086,-87.900138,,,,embarrass-station.xlsx
+USGS-IL_EPA-BEG-01,CROOKED CREEK,38.98528,-88.07517,,,,embarrass-station.xlsx
+USGS-IL_EPA-BEG-02,CROOKED CREEK,38.9961111,-88.090555,,,,embarrass-station.xlsx
+USGS-IL_EPA-BEI-01,RANGE CREEK,39.1794444,-88.163333,,,,embarrass-station.xlsx
+USGS-IL_EPA-BEJ-01,MUDDY CREEK-NORTH,39.18253,-88.24729,,,,embarrass-station.xlsx
+USGS-IL_EPA-BEJ-02,MUDDY CREEK-NORTH,39.32367,-88.25418,,,,embarrass-station.xlsx
+USGS-IL_EPA-BEJ-03,MUDDY CREEK-NORTH,39.20521,-88.29403,,,,embarrass-station.xlsx
+USGS-IL_EPA-BEJ-04,MUDDY CREEK-NORTH,39.3455556,-88.267222,,,,embarrass-station.xlsx
+USGS-IL_EPA-BEJ-05,MUDDY CREEK-NORTH,39.2297222,-88.326111,,,,embarrass-station.xlsx
+USGS-IL_EPA-BEJC-01,COTTONWOOD CREEK,39.21143,-88.25995,,,,embarrass-station.xlsx
+USGS-IL_EPA-BEJE-01,SPRINGPOINT CREEK,39.20834,-88.33589,,,,embarrass-station.xlsx
+USGS-IL_EPA-BEJEA-01,SPRINGPOINT CREEK TRIB,39.19307,-88.42049,,,,embarrass-station.xlsx
+USGS-IL_EPA-BEJF-01,MULE CREEK,39.24755,-88.34971,,,,embarrass-station.xlsx
+USGS-IL_EPA-BEJH-01,BEAR CREEK,39.28721,-88.27617,,,,embarrass-station.xlsx
+USGS-IL_EPA-BEL-01,HURRICANE CREEK,39.30726,-88.13906,,,,embarrass-station.xlsx
+USGS-IL_EPA-BEL-02,HURRICANE CREEK,39.3325,-88.120833,,,,embarrass-station.xlsx
+USGS-IL_EPA-BEL-03,HURRICANE CREEK,39.3767361,-88.083055,,,,embarrass-station.xlsx
+USGS-IL_EPA-BEN-01,KICKAPOO CREEK,39.46252,-88.19315,,,,embarrass-station.xlsx
+USGS-IL_EPA-BEN-02,KICKAPOO CREEK,39.465,-88.23,,,,embarrass-station.xlsx
+USGS-IL_EPA-BEN-CH-C4,KICKAPOO CREEK,39.46265,-88.193233,,,,embarrass-station.xlsx
+USGS-IL_EPA-BEN-MT-A1,KICKAPOO CREEK,39.4737555,-88.360233,,,,embarrass-station.xlsx
+USGS-IL_EPA-BEN-MT-C1,KICKAPOO CREEK,39.4715222,-88.35335,,,,embarrass-station.xlsx
+USGS-IL_EPA-BEN-MT-C2,KICKAPOO CREEK,39.4699666,-88.345583,,,,embarrass-station.xlsx
+USGS-IL_EPA-BEN-MT-C2A,KICKAPOO CREEK,39.4652083,-88.336425,,,,embarrass-station.xlsx
+USGS-IL_EPA-BEN-MT-C3,KICKAPOO CREEK,39.46265,-88.30848,,,,embarrass-station.xlsx
+USGS-IL_EPA-BEN-MT-C4,KICKAPOO CREEK,39.4647166,-88.275997,,,,embarrass-station.xlsx
+USGS-IL_EPA-BEN-MT-C5,KICKAPOO CREEK,39.4687583,-88.248172,,,,embarrass-station.xlsx
+USGS-IL_EPA-BEN-MT-E1,KICKAPOO CREEK,39.4719611,-88.355622,,,,embarrass-station.xlsx
+USGS-IL_EPA-BENA-01,RILEY CREEK,39.47619,-88.20609,,,,embarrass-station.xlsx
+USGS-IL_EPA-BENA-02,RILEY CREEK,39.5105556,-88.29,,,,embarrass-station.xlsx
+USGS-IL_EPA-BENA-03,RILEY CREEK,39.4866667,-88.209722,,,,embarrass-station.xlsx
+USGS-IL_EPA-BENA-CH-C3,RILEY CREEK,39.4762027,-88.206305,,,,embarrass-station.xlsx
+USGS-IL_EPA-BENA-CH-D1,RILEY CREEK,39.4868138,-88.210577,,,,embarrass-station.xlsx
+USGS-IL_EPA-BENAZ-CH-A1,CASSEL CREEK,39.4985333,-88.205433,,,,embarrass-station.xlsx
+USGS-IL_EPA-BENAZ-CH-C1,CASSEL CREEK,39.4935611,-88.206963,,,,embarrass-station.xlsx
+USGS-IL_EPA-BENAZ-CH-C2,CASSEL CREEK,39.4883972,-88.20938,,,,embarrass-station.xlsx
+USGS-IL_EPA-BENAZ-CH-E1,CASSEL CREEK,39.4946,-88.206494,,,,embarrass-station.xlsx
+USGS-IL_EPA-BENC-01,RILEY-CASSELL CREEK,39.48776,-88.2094,,,,embarrass-station.xlsx
+USGS-IL_EPA-BEO-01,POLECAT CREEK,39.50559,-88.07242,,,,embarrass-station.xlsx
+USGS-IL_EPA-BEP-01,LITTLE EMBARRAS R,39.59618,-88.04461,,,,embarrass-station.xlsx
+USGS-IL_EPA-BEP-02,LITTLE EMBARRAS R,39.6158333,-88.026111,,,,embarrass-station.xlsx
+USGS-IL_EPA-BEPD-01,CATFISH CREEK,39.67304,-87.9268,,,,embarrass-station.xlsx
+USGS-IL_EPA-BEPG-01,CATFISH-DITCH NO 7,39.65115,-87.83433,,,,embarrass-station.xlsx
+USGS-IL_EPA-BEPH-01,HICKORY GROVE CREEK,39.65652,-87.89131,,,,embarrass-station.xlsx
+USGS-IL_EPA-BEPH-02,HICKORY GROVE CREEK,39.6469444,-87.881111,,,,embarrass-station.xlsx
+USGS-IL_EPA-BEQ-01,GREASY CREEK,39.63773,-88.08483,,,,embarrass-station.xlsx
+USGS-IL_EPA-BER-01,SCATTERING FORK,39.74257,-88.17624,,,,embarrass-station.xlsx
+USGS-IL_EPA-BER-02,SCATTERING FORK,39.7511111,-88.231944,,,,embarrass-station.xlsx
+USGS-IL_EPA-BER-03,SCATTERING FORK,39.7511111,-88.231944,,,,embarrass-station.xlsx
+USGS-IL_EPA-BERB-01,HACKETT BRANCH,39.76806,-88.24236,,,,embarrass-station.xlsx
+USGS-IL_EPA-BERB-TO-A1,HACKETT BRANCH,39.9811111,-88.256388,,,,embarrass-station.xlsx
+USGS-IL_EPA-BERB-TO-C1,HACKETT BRANCH,39.9669444,-88.253055,,,,embarrass-station.xlsx
+USGS-IL_EPA-BERB-TO-C1A,HACKETT BRANCH,39.9769444,-88.256111,,,,embarrass-station.xlsx
+USGS-IL_EPA-BERB-TO-C2,HACKETT BRANCH,39.9372222,-88.257777,,,,embarrass-station.xlsx
+USGS-IL_EPA-BERB-TO-E1,HACKETT BRANCH,39.9775,-88.256388,,,,embarrass-station.xlsx
+USGS-IL_EPA-BERC-01,HAYES BR DRAIN DTCH,39.79159,-88.25243,,,,embarrass-station.xlsx
+USGS-IL_EPA-BERC-T-C2,HAYES BR DRAIN DTCH,39.79167,-88.252503,,,,embarrass-station.xlsx
+USGS-IL_EPA-BERC-T-D1,HAYES BR DRAIN DTCH,39.805559,-88.272781,,,,embarrass-station.xlsx
+USGS-IL_EPA-BERCA-T-C1,U-TRIB HAYES BR DR DTCH,39.805559,-88.264448,,,,embarrass-station.xlsx
+USGS-IL_EPA-BERCA-T-E1,U-TRIB HAYES BR DR DTCH,39.807504,-88.263338,,,,embarrass-station.xlsx
+USGS-IL_EPA-BERD-01,SPOIL BANK TRIB,39.73888,-88.24167,,,,embarrass-station.xlsx
+USGS-IL_EPA-BERY-CB-D1,TUSCOLA #5 DRAINAGE DITCH,39.7696611,-88.296266,,,,embarrass-station.xlsx
+USGS-IL_EPA-BERZ-CB-C1,TUSCOLA #4 DRAINAGE DITCH,39.7825416,-88.297975,,,,embarrass-station.xlsx
+USGS-IL_EPA-BERZ-CB-C1A,TUSCOLA #4 DRAINAGE DITCH,39.7824777,-88.294072,,,,embarrass-station.xlsx
+USGS-IL_EPA-BERZ-CB-C2,TUSCOLA #4 DRAINAGE DITCH,39.7777277,-88.283325,,,,embarrass-station.xlsx
+USGS-IL_EPA-BERZ-CB-E1,TUSCOLA #4 DRAINAGE DITCH,39.7825944,-88.299077,,,,embarrass-station.xlsx
+USGS-IL_EPA-BES-01,JORDAN SLOUGH,39.87477,-88.15091,,,,embarrass-station.xlsx
+USGS-IL_EPA-BET-01,EAST BRANCH,39.89404,-88.17948,,,,embarrass-station.xlsx
+USGS-IL_EPA-BEV-01,WALNUT POINT CREEK,39.693337,-88.035004,,,,embarrass-station.xlsx
+USGS-IL_EPA-BEW-01,WALNUT POINT CR-WST,39.706392,-88.035837,,,,embarrass-station.xlsx
+USGS-IL_EPA-BEX-01,WALNUT POINT CR-EST,39.703892,-88.027504,,,,embarrass-station.xlsx
+USGS-IL_EPA-BEZA-01,BEAVER POND DITCH,38.68771,-87.62931,,,,embarrass-station.xlsx
+USGS-IL_EPA-BEZB-07,INDIAN CREEK,38.69245,-87.69367,,,,embarrass-station.xlsx
+USGS-IL_EPA-BEZF-01,ALLISON DITCH,38.66303,-87.60669,,,,embarrass-station.xlsx
+USGS-IL_EPA-BEZJ-01,BRUSH CREEK,38.9908333,-88.132138,,,,embarrass-station.xlsx
+USGS-IL_EPA-BEZX-01,HOG BRANCH,39.66536,-88.03558,,,,embarrass-station.xlsx
+USGS-IL_EPA-BEZZ-02,BRUSHY FORK,39.73707,-88.06963,,,,embarrass-station.xlsx
+USGS-IL_EPA-BEZZ-03,BRUSHY FORK,39.80545,-87.94642,,,,embarrass-station.xlsx
+USGS-IL_EPA-BEZZ-04,BRUSHY FORK,39.7686111,-88.040833,,,,embarrass-station.xlsx
+USGS-IL_EPA-BEZZ-05,BRUSHY FORK,39.7633333,-88.0525,,,,embarrass-station.xlsx
+USGS-IL_EPA-CPD-BD-E,SECOND SALT CREEK,39.201667,-88.417778,,,,embarrass-station.xlsx
+USGS-IL_EPA_WQX-BE-01,Embarras River,38.66493,-87.62639,,,,embarrass-station.xlsx
+USGS-IL_EPA_WQX-BE-02,Embarras River,38.83479,-87.75709,,,,embarrass-station.xlsx
+USGS-IL_EPA_WQX-BE-03,Embarras River,38.73283,-87.68631,,,,embarrass-station.xlsx
+USGS-IL_EPA_WQX-BE-04,Embarras River,38.99599,-88.14544,,,,embarrass-station.xlsx
+USGS-IL_EPA_WQX-BE-05,Embarras River,39.48915,-88.11321,,,,embarrass-station.xlsx
+USGS-IL_EPA_WQX-BE-06,Embarras River,39.51027,-88.11223,,,,embarrass-station.xlsx
+USGS-IL_EPA_WQX-BE-07,Embarras River,38.937,-88.02219,,,,embarrass-station.xlsx
+USGS-IL_EPA_WQX-BE-08,Embarras River,39.15618,-88.20768,,,,embarrass-station.xlsx
+USGS-IL_EPA_WQX-BE-09,Embarras River,39.34419,-88.17068,,,,embarrass-station.xlsx
+USGS-IL_EPA_WQX-BE-10,Embarras River,39.65905,-88.06316,,,,embarrass-station.xlsx
+USGS-IL_EPA_WQX-BE-11,Embarras River,39.86673,-88.16042,,,,embarrass-station.xlsx
+USGS-IL_EPA_WQX-BE-12,Embarras River,38.84597,-87.94994,,,,embarrass-station.xlsx
+USGS-IL_EPA_WQX-BE-13,Embarras River,39.10788,-88.20941,,,,embarrass-station.xlsx
+USGS-IL_EPA_WQX-BE-14,Embarras River,39.79973,-88.17041,,,,embarrass-station.xlsx
+USGS-IL_EPA_WQX-BE-15,Embarras River,39.25087,-88.1734,,,,embarrass-station.xlsx
+USGS-IL_EPA_WQX-BE-17,Embarras River,39.55499,-88.08938,,,,embarrass-station.xlsx
+USGS-IL_EPA_WQX-BE-19,Embarras River,39.75318,-88.17131,,,,embarrass-station.xlsx
+USGS-IL_EPA_WQX-BE-20,Embarras River,39.90872,-88.19133,,,,embarrass-station.xlsx
+USGS-IL_EPA_WQX-BE-21,Embarras River,39.99587,-88.20835,,,,embarrass-station.xlsx
+USGS-IL_EPA_WQX-BE-23,Embarras River,39.6813556,-88.0404917,,,,embarrass-station.xlsx
+USGS-IL_EPA_WQX-BE-24,Embarras River,38.7180556,-87.6691667,,,,embarrass-station.xlsx
+USGS-IL_EPA_WQX-BE-25,Embarras River,39.9363889,-88.1911111,,,,embarrass-station.xlsx
+USGS-IL_EPA_WQX-BE-26,Embarras River,39.6916667,-88.0358333,,,,embarrass-station.xlsx
+USGS-IL_EPA_WQX-BE-27,Embarras River,39.6813889,-88.0405556,,,,embarrass-station.xlsx
+USGS-IL_EPA_WQX-BE-29,Embarras River,39.4405556,-88.1572222,,,,embarrass-station.xlsx
+USGS-IL_EPA_WQX-BE-30,Embarras River,39.4202778,-88.1775,,,,embarrass-station.xlsx
+USGS-IL_EPA_WQX-BE-31,Embarras River,39.2373,-88.18683,,,,embarrass-station.xlsx
+USGS-IL_EPA_WQX-BE-32,Embarras River,38.8711111,-87.9077778,,,,embarrass-station.xlsx
+USGS-IL_EPA_WQX-BE-33,Embarras River,38.7241667,-87.6652778,,,,embarrass-station.xlsx
+USGS-IL_EPA_WQX-BE-34,Embarras River,38.7286111,-87.6647222,,,,embarrass-station.xlsx
+USGS-IL_EPA_WQX-BE-35,Embarras River,38.9944444,-88.1563889,,,,embarrass-station.xlsx
+USGS-IL_EPA_WQX-BE-36,Embarras River,39.0530556,-88.1808333,,,,embarrass-station.xlsx
+USGS-IL_EPA_WQX-BE-37,Embarras River,39.21104,-88.19476,,,,embarrass-station.xlsx
+USGS-IL_EPA_WQX-BE-38,Embarras River,39.61014,-88.07095,,,,embarrass-station.xlsx
+USGS-IL_EPA_WQX-BE-96,Embarras River,39.45714,-88.14699,,,,embarrass-station.xlsx
+USGS-IL_EPA_WQX-BE-97,Embarras River,38.74917,-87.70921,,,,embarrass-station.xlsx
+USGS-IL_EPA_WQX-BE-98,Embarras River,39.83207,-88.16019,,,,embarrass-station.xlsx
+USGS-IL_EPA_WQX-BE-99,Embarras River,38.99596,-88.16306,,,,embarrass-station.xlsx
+USGS-IL_EPA_WQX-BEA-01,Muddy Creek,38.77038,-87.75994,,,,embarrass-station.xlsx
+USGS-IL_EPA_WQX-BEA-SU-C2,Muddy Creek,38.7224,-87.8554,,,,embarrass-station.xlsx
+USGS-IL_EPA_WQX-BEA-SU-C3,Muddy Creek,38.7318,-87.8592,,,,embarrass-station.xlsx
+USGS-IL_EPA_WQX-BEA-SU-C4,Muddy Creek,38.7474,-87.8526,,,,embarrass-station.xlsx
+USGS-IL_EPA_WQX-BEAA-01,The Slough,38.7895,-87.81059,,,,embarrass-station.xlsx
+USGS-IL_EPA_WQX-BEAB-01,Paul Creek,38.76931,-87.86595,,,,embarrass-station.xlsx
+USGS-IL_EPA_WQX-BEAC-SU-C1,Shirley Creek,38.7206,-87.8566,,,,embarrass-station.xlsx
+USGS-IL_EPA_WQX-BEB-01,Brushy Creek,38.79093,-87.70316,,,,embarrass-station.xlsx
+USGS-IL_EPA_WQX-BEB-02,Brushy Creek,38.88222,-87.66126,,,,embarrass-station.xlsx
+USGS-IL_EPA_WQX-BEB-03,Brushy Creek,38.7983333,-87.6875,,,,embarrass-station.xlsx
+USGS-IL_EPA_WQX-BEB-04,Brushy Creek,38.7972222,-87.6886111,,,,embarrass-station.xlsx
+USGS-IL_EPA_WQX-BEB-05,Brushy Creek,38.814778,-87.67525,,,,embarrass-station.xlsx
+USGS-IL_EPA_WQX-BEBB-01,Sugar Creek,38.8664444,-87.6848611,,,,embarrass-station.xlsx
+USGS-IL_EPA_WQX-BEBZ-11,U-trib Brushy Creek,38.897,-87.6708333,,,,embarrass-station.xlsx
+USGS-IL_EPA_WQX-BEBZ-12,U-trib Brushy Creek,38.9038889,-87.6845833,,,,embarrass-station.xlsx
+USGS-IL_EPA_WQX-BEC-01,Honey Creek,38.9016667,-87.8066667,,,,embarrass-station.xlsx
+USGS-IL_EPA_WQX-BED-01,Big Creek,38.91621,-87.88361,,,,embarrass-station.xlsx
+USGS-IL_EPA_WQX-BED-02,Big Creek,38.9452778,-87.8813889,,,,embarrass-station.xlsx
+USGS-IL_EPA_WQX-BED-03,Big Creek,39.0491667,-87.8261111,,,,embarrass-station.xlsx
+USGS-IL_EPA_WQX-BED-04,Big Creek,38.9308389,-87.8819194,,,,embarrass-station.xlsx
+USGS-IL_EPA_WQX-BEDA-01,Little Creek,38.93674,-87.87029,,,,embarrass-station.xlsx
+USGS-IL_EPA_WQX-BEDB-01,Dogwood Creek,38.97495,-87.8803,,,,embarrass-station.xlsx
+USGS-IL_EPA_WQX-BEDB-02,Dogwood Creek,38.98236111,-87.88533333,,,,embarrass-station.xlsx
+USGS-IL_EPA_WQX-BEE-01,Calf Killer Creek,38.83321,-87.96496,,,,embarrass-station.xlsx
+USGS-IL_EPA_WQX-BEF-01,North Fork Embarras River,38.92381,-87.98698,,,,embarrass-station.xlsx
+USGS-IL_EPA_WQX-BEF-02,North Fork Embarras River,39.26453,-87.90773,,,,embarrass-station.xlsx
+USGS-IL_EPA_WQX-BEF-03,North Fork Embarras River,39.01023,-87.9466,,,,embarrass-station.xlsx
+USGS-IL_EPA_WQX-BEF-04,North Fork Embarras River,39.14417,-87.95401,,,,embarrass-station.xlsx
+USGS-IL_EPA_WQX-BEF-05,North Fork Embarras River,39.00017,-87.9448,,,,embarrass-station.xlsx
+USGS-IL_EPA_WQX-BEF-06,North Fork Embarras River,39.1144444,-87.9755556,,,,embarrass-station.xlsx
+USGS-IL_EPA_WQX-BEF-07,North Fork Embarras River,38.9602778,-87.9813889,,,,embarrass-station.xlsx
+USGS-IL_EPA_WQX-BEF-08,North Fork Embarras River,39.3513889,-87.9027778,,,,embarrass-station.xlsx
+USGS-IL_EPA_WQX-BEF-09,North Fork Embarras River,39.4569444,-87.9475,,,,embarrass-station.xlsx
+USGS-IL_EPA_WQX-BEF-10,North Fork Embarras River,39.3388889,-87.8977778,,,,embarrass-station.xlsx
+USGS-IL_EPA_WQX-BEF-11,North Fork Embarras River,39.35,-87.9019444,,,,embarrass-station.xlsx
+USGS-IL_EPA_WQX-BEF-12,North Fork Embarras River,39.1638889,-87.9430556,,,,embarrass-station.xlsx
+USGS-IL_EPA_WQX-BEF-13,North Fork Embarras River,39.2391667,-87.9283333,,,,embarrass-station.xlsx
+USGS-IL_EPA_WQX-BEF-14,North Fork Embarras River,39.1141667,-87.9752778,,,,embarrass-station.xlsx
+USGS-IL_EPA_WQX-BEF-15,North Fork Embarras River,38.9602778,-87.9813889,,,,embarrass-station.xlsx
+USGS-IL_EPA_WQX-BEF-16,North Fork Embarras River,39.2148611,-87.9313889,,,,embarrass-station.xlsx
+USGS-IL_EPA_WQX-BEFA-02,Willow Creek,39.03174,-87.93625,,,,embarrass-station.xlsx
+USGS-IL_EPA_WQX-BEFA-03,Willow Creek,39.145,-87.9033333,,,,embarrass-station.xlsx
+USGS-IL_EPA_WQX-BEFA-04,Willow Creek,39.071111,-87.923056,,,,embarrass-station.xlsx
+USGS-IL_EPA_WQX-BEFAA-01,Little Willow Creek,39.26112,-87.87819,,,,embarrass-station.xlsx
+USGS-IL_EPA_WQX-BEFAB-01,Muddy Creek,39.06455,-87.9101,,,,embarrass-station.xlsx
+USGS-IL_EPA_WQX-BEFAB-02,Muddy Creek,39.086,-87.9001389,,,,embarrass-station.xlsx
+USGS-IL_EPA_WQX-BEG-01,Crooked Creek,38.98528,-88.07517,,,,embarrass-station.xlsx
+USGS-IL_EPA_WQX-BEG-02,Crooked Creek,38.9961111,-88.0905556,,,,embarrass-station.xlsx
+USGS-IL_EPA_WQX-BEGB-01,West Crooked Creek,39.05261,-88.09518,,,,embarrass-station.xlsx
+USGS-IL_EPA_WQX-BEH-01,Mint Creek,39.05542,-88.23356,,,,embarrass-station.xlsx
+USGS-IL_EPA_WQX-BEI-01,Range Creek,39.1794444,-88.1633333,,,,embarrass-station.xlsx
+USGS-IL_EPA_WQX-BEJ-01,Muddy Creek,39.18253,-88.24729,,,,embarrass-station.xlsx
+USGS-IL_EPA_WQX-BEJ-02,Muddy Creek,39.32367,-88.25418,,,,embarrass-station.xlsx
+USGS-IL_EPA_WQX-BEJ-03,Muddy Creek,39.20521,-88.29403,,,,embarrass-station.xlsx
+USGS-IL_EPA_WQX-BEJ-04,Muddy Creek,39.3455556,-88.2672222,,,,embarrass-station.xlsx
+USGS-IL_EPA_WQX-BEJ-05,Muddy Creek,39.2297222,-88.3261111,,,,embarrass-station.xlsx
+USGS-IL_EPA_WQX-BEJ-06,Muddy Creek,39.25855556,-88.30333333,,,,embarrass-station.xlsx
+USGS-IL_EPA_WQX-BEJC-01,Cottonwood Creek,39.21143,-88.25995,,,,embarrass-station.xlsx
+USGS-IL_EPA_WQX-BEJE-01,Springpoint Creek,39.20834,-88.33589,,,,embarrass-station.xlsx
+USGS-IL_EPA_WQX-BEJEA-01,U-trib Springpoint Creek,39.19307,-88.42049,,,,embarrass-station.xlsx
+USGS-IL_EPA_WQX-BEJF-01,Mule Creek,39.24755,-88.34971,,,,embarrass-station.xlsx
+USGS-IL_EPA_WQX-BEJH-01,Bear Creek,39.28721,-88.27617,,,,embarrass-station.xlsx
+USGS-IL_EPA_WQX-BEK-01,Lost Creek,39.3177567,-88.07259806,,,,embarrass-station.xlsx
+USGS-IL_EPA_WQX-BEL-01,Hurricane Creek,39.30726,-88.13906,,,,embarrass-station.xlsx
+USGS-IL_EPA_WQX-BEL-02,Hurricane Creek,39.3325,-88.1208333,,,,embarrass-station.xlsx
+USGS-IL_EPA_WQX-BEL-03,Hurricane Creek,39.3767361,-88.0830556,,,,embarrass-station.xlsx
+USGS-IL_EPA_WQX-BEM-01,Indian Creek,39.414905,-88.18436528,,,,embarrass-station.xlsx
+USGS-IL_EPA_WQX-BEN-01,Kickapoo Creek,39.46252,-88.19315,,,,embarrass-station.xlsx
+USGS-IL_EPA_WQX-BEN-02,Kickapoo Creek,39.465059,-88.23024,,,,embarrass-station.xlsx
+USGS-IL_EPA_WQX-BEN-03,Kickapoo Creek,39.468857,-88.2481,,,,embarrass-station.xlsx
+USGS-IL_EPA_WQX-BEN-04,Kickapoo Creek,39.469728,-88.321729,,,,embarrass-station.xlsx
+USGS-IL_EPA_WQX-BEN-05,Kickapoo Creek,39.465268,-88.336476,,,,embarrass-station.xlsx
+USGS-IL_EPA_WQX-BEN-06,Kickapoo Creek,39.4673,-88.2192111,,,,embarrass-station.xlsx
+USGS-IL_EPA_WQX-BEN-CH-C4,Kickapoo Creek,39.46265,-88.1932333,,,,embarrass-station.xlsx
+USGS-IL_EPA_WQX-BEN-MT-A1,Kickapoo Creek,39.4737555,-88.3602333,,,,embarrass-station.xlsx
+USGS-IL_EPA_WQX-BEN-MT-C1,Kickapoo Creek,39.4715222,-88.35335,,,,embarrass-station.xlsx
+USGS-IL_EPA_WQX-BEN-MT-C2,Kickapoo Creek,39.4699666,-88.3455833,,,,embarrass-station.xlsx
+USGS-IL_EPA_WQX-BEN-MT-C2A,Kickapoo Creek,39.4652083,-88.336425,,,,embarrass-station.xlsx
+USGS-IL_EPA_WQX-BEN-MT-C3,Kickapoo Creek,39.46265,-88.3084805,,,,embarrass-station.xlsx
+USGS-IL_EPA_WQX-BEN-MT-C4,Kickapoo Creek,39.4647166,-88.2759972,,,,embarrass-station.xlsx
+USGS-IL_EPA_WQX-BEN-MT-C5,Kickapoo Creek,39.4687583,-88.2481722,,,,embarrass-station.xlsx
+USGS-IL_EPA_WQX-BENA-01,Riley Creek,39.47619,-88.20609,,,,embarrass-station.xlsx
+USGS-IL_EPA_WQX-BENA-02,Riley Creek,39.5105556,-88.29,,,,embarrass-station.xlsx
+USGS-IL_EPA_WQX-BENA-03,Riley Creek,39.4866667,-88.2097222,,,,embarrass-station.xlsx
+USGS-IL_EPA_WQX-BENA-CH-C3,Riley Creek,39.4762027,-88.2063055,,,,embarrass-station.xlsx
+USGS-IL_EPA_WQX-BENA-CH-D1,Riley Creek,39.4868138,-88.2105777,,,,embarrass-station.xlsx
+USGS-IL_EPA_WQX-BENC-01,Cassell Creek,39.48776,-88.2094,,,,embarrass-station.xlsx
+USGS-IL_EPA_WQX-BENC-CH-A1,Cassell Creek,39.4985333,-88.2054333,,,,embarrass-station.xlsx
+USGS-IL_EPA_WQX-BENC-CH-C1,Cassell Creek,39.4935611,-88.2069638,,,,embarrass-station.xlsx
+USGS-IL_EPA_WQX-BENC-CH-C2,Cassell Creek,39.4883972,-88.2093805,,,,embarrass-station.xlsx
+USGS-IL_EPA_WQX-BEO-01,Polecat Creek,39.50559,-88.07242,,,,embarrass-station.xlsx
+USGS-IL_EPA_WQX-BEP-01,Little Embarras River,39.59618,-88.04461,,,,embarrass-station.xlsx
+USGS-IL_EPA_WQX-BEP-02,Little Embarras River,39.6158333,-88.0261111,,,,embarrass-station.xlsx
+USGS-IL_EPA_WQX-BEPC-01,Donica Creek,39.634,-87.984,,,,embarrass-station.xlsx
+USGS-IL_EPA_WQX-BEPD-01,Catfish Creek,39.67304,-87.9268,,,,embarrass-station.xlsx
+USGS-IL_EPA_WQX-BEPG-01,Ditch No 7,39.65115,-87.83433,,,,embarrass-station.xlsx
+USGS-IL_EPA_WQX-BEPH-01,Hickory Grove Creek,39.65652,-87.89131,,,,embarrass-station.xlsx
+USGS-IL_EPA_WQX-BEPH-02,Hickory Grove Creek,39.6469444,-87.8811111,,,,embarrass-station.xlsx
+USGS-IL_EPA_WQX-BEQ-01,Greasy Creek,39.63773,-88.08483,,,,embarrass-station.xlsx
+USGS-IL_EPA_WQX-BEQ-02,Greasy Creek,39.63730833,-88.11174583,,,,embarrass-station.xlsx
+USGS-IL_EPA_WQX-BER-01,Scattering Fork,39.74257,-88.17624,,,,embarrass-station.xlsx
+USGS-IL_EPA_WQX-BER-02,Scattering Fork,39.7511111,-88.2319444,,,,embarrass-station.xlsx
+USGS-IL_EPA_WQX-BER-03,Scattering Fork,39.7511111,-88.2319444,,,,embarrass-station.xlsx
+USGS-IL_EPA_WQX-BERB-01,Hackett Branch,39.76806,-88.24236,,,,embarrass-station.xlsx
+USGS-IL_EPA_WQX-BERB-TO-A1,Hackett Branch,39.9811111,-88.2563889,,,,embarrass-station.xlsx
+USGS-IL_EPA_WQX-BERB-TO-C1,Hackett Branch,39.9669444,-88.2530556,,,,embarrass-station.xlsx
+USGS-IL_EPA_WQX-BERB-TO-C1A,Hackett Branch,39.9769444,-88.2561111,,,,embarrass-station.xlsx
+USGS-IL_EPA_WQX-BERB-TO-C2,Hackett Branch,39.9372222,-88.2577778,,,,embarrass-station.xlsx
+USGS-IL_EPA_WQX-BERC-01,Hayes Branch Drainage Ditch,39.79159,-88.25243,,,,embarrass-station.xlsx
+USGS-IL_EPA_WQX-BERC-T-C2,Hayes Branch Drainage Ditch,39.79167,-88.252503,,,,embarrass-station.xlsx
+USGS-IL_EPA_WQX-BERC-T-D1,Hayes Branch Drainage Ditch,39.805559,-88.272781,,,,embarrass-station.xlsx
+USGS-IL_EPA_WQX-BERCA-T-C1,U-trib Hayes Branch Drainage Ditch,39.805559,-88.264448,,,,embarrass-station.xlsx
+USGS-IL_EPA_WQX-BERD-01,Spoil Bank trib,39.73888,-88.24167,,,,embarrass-station.xlsx
+USGS-IL_EPA_WQX-BERY-CB-D1,Tuscola No 5,39.7696611,-88.2962666,,,,embarrass-station.xlsx
+USGS-IL_EPA_WQX-BERZ-CB-C1,Tuscola No 4,39.7825416,-88.297975,,,,embarrass-station.xlsx
+USGS-IL_EPA_WQX-BERZ-CB-C1A,Tuscola No 4,39.7824777,-88.2940722,,,,embarrass-station.xlsx
+USGS-IL_EPA_WQX-BERZ-CB-C2,Tuscola No 4,39.7777277,-88.283325,,,,embarrass-station.xlsx
+USGS-IL_EPA_WQX-BES-01,Jordan Slough,39.87477,-88.15091,,,,embarrass-station.xlsx
+USGS-IL_EPA_WQX-BET-01,East Branch,39.89404,-88.17948,,,,embarrass-station.xlsx
+USGS-IL_EPA_WQX-BEU-01,Dry Branch,39.62293917,-88.08450861,,,,embarrass-station.xlsx
+USGS-IL_EPA_WQX-BEZA-01,Beaver Pond Ditch,38.68771,-87.62931,,,,embarrass-station.xlsx
+USGS-IL_EPA_WQX-BEZB-07,Indian Creek,38.69245,-87.69367,,,,embarrass-station.xlsx
+USGS-IL_EPA_WQX-BEZF-01,Allison Ditch,38.66303,-87.60669,,,,embarrass-station.xlsx
+USGS-IL_EPA_WQX-BEZJ-01,Brush Creek,38.9908333,-88.1321389,,,,embarrass-station.xlsx
+USGS-IL_EPA_WQX-BEZR-01,Clear Creek,39.34671444,-88.1575875,,,,embarrass-station.xlsx
+USGS-IL_EPA_WQX-BEZV-01,Whetstone Creek,39.46469528,-88.10585417,,,,embarrass-station.xlsx
+USGS-IL_EPA_WQX-BEZX-01,Hog Branch,39.66536,-88.03558,,,,embarrass-station.xlsx
+USGS-IL_EPA_WQX-BEZY-01,Deer Creek,39.7108,-88.1395,,,,embarrass-station.xlsx
+USGS-IL_EPA_WQX-BEZZ-02,Brushy Fork,39.73707,-88.06963,,,,embarrass-station.xlsx
+USGS-IL_EPA_WQX-BEZZ-03,Brushy Fork,39.80545,-87.94642,,,,embarrass-station.xlsx
+USGS-IL_EPA_WQX-BEZZ-04,Brushy Fork,39.7686111,-88.0408333,,,,embarrass-station.xlsx
+USGS-IL_EPA_WQX-BEZZ-05,Brushy Fork,39.7633333,-88.0525,,,,embarrass-station.xlsx
+USGS-IL_EPA_WQX-RBK-T1,Walnut Point,39.693337,-88.035004,,,,embarrass-station.xlsx
+USGS-IL_EPA_WQX-RBK-T2,Walnut Point,39.706392,-88.035837,,,,embarrass-station.xlsx
+USGS-IL_EPA_WQX-RBK-T3,Walnut Point,39.703892,-88.027504,,,,embarrass-station.xlsx
+USGS-NARSTEST-FW08IL023,Lost Creek,39.34781,-88.0526,,,,embarrass-station.xlsx
+USGS-NARS_WQX-FW08IL023,Lost Creek,39.34781178,-88.05272107,,,,embarrass-station.xlsx
+USGS-NARS_WQX-ILS9-0922,Lost Creek,39.34781,-88.05272,,,,embarrass-station.xlsx
+USGS-NARS_WQX-ILSS-1130,Allison Ditch,38.7142,-87.59376,,,,embarrass-station.xlsx
+USGS-NARS_WQX-ILSS-1169,Kickapoo Creek,39.47316124,-88.36511971,,,,embarrass-station.xlsx
+USGS-NARS_WQX-NRS_IL-10049,Lost Creek,39.34781199,-88.05272098,,,,embarrass-station.xlsx
